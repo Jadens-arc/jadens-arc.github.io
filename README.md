@@ -1,2 +1,2 @@
-# jaden.github.io
+# jadens-arc.github.io
 ## My offical website/portfolio
