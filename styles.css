@@ -199,6 +199,7 @@ section .title-bar a {
   border: 2px solid var(--lighter-text-color);
   border-radius: 10px;
   padding: 20px;
+  margin: 0 15px 30px 15px;
 }
 
 #projects-page .arrow {
@@ -216,6 +217,28 @@ section .title-bar a {
   border-bottom: 2px solid var(--lighter-text-color);
   margin-bottom: 15px;
   padding-bottom: 15px;
+}
+
+#contact-page .options {
+  list-style-type: none;
+  padding-left: 1rem;
+}
+
+#contact-page .options li {
+  margin: 10px 0;
+  font-size: 20px;
+  color: var(--text-color);
+}
+
+#contact-page .options li:before {
+  content: '\2014';
+  position: absolute;
+  margin-left: -20px;
+}
+
+
+#contact-page .options li a {
+  color: var(--text-color);
 }
 
 @media screen and (max-width: 850px) {
