@@ -23,6 +23,16 @@ body {
 
 section {
   height: 100vh;
+  padding: 50px;
+}
+
+h1 {
+  font-size: 3rem;
+  color: var(--header-color);
+}
+
+ul {
+  margin-left: 1rem;
 }
 
 .intro-section {
@@ -92,4 +102,19 @@ section {
     margin-left: 80px;
     display: inline;
   }
+}
+
+#about-page p {
+  line-height: 2rem;
+  font-size: 20px;
+}
+
+
+
+#skills-page .skills {
+  font-size: 20px;
+}
+
+#skills-page .skills li {
+  margin: 10px 0;
 }
