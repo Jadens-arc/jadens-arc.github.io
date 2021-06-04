@@ -12,111 +12,114 @@
       rel="stylesheet"
     />
     <link rel="shortcut icon" href="./logo.png" type="image/x-icon" />
+    <script defer src="./script.js"></script>
   </head>
-  <body>
-    <section id="intro-section" class="intro-section">
-      <!-- <img src="logo.png" alt="" srcset="" /> -->
-      <div>
-        <h1 class="title">Jaden Arceneaux</h1>
-        <h2 class="subtitle">Student • Programmer</h2>
-      </div>
-      <a class="arrow" href="#about-page">See<br />More</a>
-    </section>
+  <body id="body">
+    <p id="arrow" class="arrow">></p>
 
-    <section id="about-page">
-      <div>
-        <div class="title-bar">
-          <h1>Who am I?</h1>
-          <a href="#intro-section">Back</a>
+    <div id="main" class="main">
+      <section id="intro-section" class="intro-section">
+        <!-- <img src="logo.png" alt="" srcset="" /> -->
+        <div>
+          <h1 class="title">Jaden Arceneaux</h1>
+          <h2 class="subtitle">Student • Programmer</h2>
         </div>
-        <p>
-          I am a junior developer from North Las Vegas, Nevada. I currently
-          attend Advanced Technologies Academy and am pursuing a degree in
-          Computer Science. My goal is to attain experience in programming
-          within a collaborative environment. I specialize in full-stack web
-          development, however, I also have experience in app development and
-          algorithms and data structures<span class="blinking-cursor">|</span>
-        </p>
-      </div>
-      <a class="arrow" href="#skills-page">></a>
-    </section>
+        <a class="next" href="#about-page">See<br />More</a>
+      </section>
 
-    <section id="skills-page">
-      <div>
-        <div class="title-bar">
-          <h1>Skills</h1>
-          <a href="#about-page">Back</a>
+      <section id="about-page">
+        <div>
+          <div class="title-bar">
+            <h1>Who am I?</h1>
+            <a href="#intro-section">Back</a>
+          </div>
+          <p>
+            I am a junior developer from North Las Vegas, Nevada. I currently
+            attend Advanced Technologies Academy and am pursuing a degree in
+            Computer Science. My goal is to attain experience in programming
+            within a collaborative environment. I specialize in full-stack web
+            development, however, I also have experience in app development and
+            algorithms and data structures<span class="blinking-cursor">|</span>
+          </p>
         </div>
-        <ul class="skills">
+      </section>
+
+      <section id="skills-page">
+        <div>
+          <div class="title-bar">
+            <h1>Skills</h1>
+            <a href="#about-page">Back</a>
+          </div>
+          <ul class="skills">
+            <li>
+              <b>Python</b>
+              <ul>
+                <li>Server-Side</li>
+                <li>Scripting</li>
+              </ul>
+            </li>
+            <li>
+              <b>Java</b>
+            </li>
+            <li>
+              <b>Web Development</b>
+              <ul>
+                <li>JavaScript (Frontend & Backend)</li>
+                <li>Jquery</li>
+                <li>React</li>
+                <li>HTML & CSS</li>
+              </ul>
+            </li>
+            <li><b>Adobe Illustrator</b></li>
+            <li><b>Git</b></li>
+          </ul>
+        </div>
+      </section>
+
+      <section id="projects-page">
+        <div class="title-bar">
+          <h1>Projects</h1>
+          <a href="#skills-page">Back</a>
+        </div>
+        <div class="box">
+          <h2>Scripty</h2>
+          <p>A light-weight IDE made for Linux in Python</p>
+        </div>
+        <div class="box">
+          <h2>Atech App</h2>
+          <p>The Official App for Advanced Technologies Academy</p>
+        </div>
+        <div class="box">
+          <h2>Animal Search</h2>
+          <p>
+            A speedy search engine for looking up your favorite animals built
+            using a trie data structure
+          </p>
+        </div>
+      </section>
+
+      <section id="contact-page">
+        <div class="title-bar">
+          <h1>Find Me</h1>
+          <a href="#projects-page">Back</a>
+        </div>
+        <ul class="options">
           <li>
-            <b>Python</b>
-            <ul>
-              <li>Server-Side</li>
-              <li>Scripting</li>
-            </ul>
+            <a href="https://github.com/Jadens-arc">GitHub</a>
           </li>
           <li>
-            <b>Java</b>
+            <a href="https://www.linkedin.com/in/jaden-arceneaux/">Linkedin</a>
           </li>
           <li>
-            <b>Web Development</b>
-            <ul>
-              <li>JavaScript (Frontend & Backend)</li>
-              <li>Jquery</li>
-              <li>React</li>
-              <li>HTML & CSS</li>
-            </ul>
+            <a href="tel:1-702-600-4785">1-702-600-4785</a>
           </li>
-          <li><b>Adobe Illustrator</b></li>
-          <li><b>Git</b></li>
+          <li>
+            <a href="mailto:arceneauxjaden@gmail.com"
+              >arceneauxjaden@gmail.com</a
+            >
+          </li>
         </ul>
-      </div>
-
-      <a class="arrow" href="#projects-page">></a>
-    </section>
-
-    <section id="projects-page">
-      <div class="title-bar">
-        <h1>What Have I Made</h1>
-        <a href="#skills-page">Back</a>
-      </div>
-      <div class="box">
-        <h2>Scripty</h2>
-        <p>A light-weight IDE made for Linux in Python</p>
-      </div>
-      <div class="box">
-        <h2>Atech App</h2>
-        <p>The Official App for Advanced Technologies Academy</p>
-      </div>
-      <div class="box">
-        <h2>Animal Search</h2>
-        <p>
-          A speedy search engine for looking up your favorite animals built
-          using a trie data structure
-        </p>
-      </div>
-      <a class="arrow" href="#contact-page">></a>
-    </section>
-
-    <section id="contact-page">
-      <div class="title-bar">
-        <h1>Find Me</h1>
-        <a href="#projects-page">Back</a>
-      </div>
-      <ul class="options">
-        <li>
-          <a href="https://github.com/Jadens-arc">GitHub</a>
-        </li>
-        <li>
-          <a href="https://www.linkedin.com/in/jaden-arceneaux/">Linkedin</a>
-        </li>
-        <li>
-          <a href="tel:1-702-600-4785">1-702-600-4785</a>
-        </li>
-        <li>
-          <a href="mailto:arceneauxjaden@gmail.com">arceneauxjaden@gmail.com</a>
-        </li>
-      </ul>
-    </section>
+      </section>
+    </div>
   </body>
 </html>

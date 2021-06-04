@@ -17,16 +17,22 @@ html {
 
 body {
   background-color: black;
-  font-family: 'Fira Code', sans-serif;
-  height: 100vh;
   overflow: hidden;
+  font-family: 'Fira Code', sans-serif;
   width: 65%;
   margin: 0 auto;
+}
+
+.main {
+  height: 100vh;
+  scroll-behavior: smooth;
+  overflow: hidden;
 }
 
 section {
   height: 100vh;
   padding: 50px;
+  z-index: 1;
 }
 
 h1 {
@@ -45,6 +51,17 @@ section h1 {
 section:first-child h1 {
   margin-bottom: 0;
 }
+
+.arrow {
+  color: var(--lighter-text-color);
+  z-index: 10;
+  font-size: 10rem;
+  position: sticky;
+  top: 90vh;
+  float: right;
+  transition: all ease 0.2s;
+}
+
 
 .intro-section {
   display: flex;
@@ -68,6 +85,7 @@ section:first-child h1 {
 
 .intro-section .title {
   font-size: 3rem;
+  text-align: center;
   color: var(--header-color);
   animation: fadeIn 2s;
 }
@@ -86,7 +104,7 @@ section:first-child h1 {
   justify-content: center;
 }
 
-.intro-section .arrow {
+.intro-section .next {
   font-size: 2rem;
   font-weight: 100;
   color: var(--text-color);
@@ -148,15 +166,6 @@ section .title-bar a {
   font-size: 20px;
 }
 
-#about-page .arrow {
-  color: var(--lighter-text-color);
-  text-decoration: none;
-  opacity: 0;
-  font-weight: 100;
-  font-size: 10rem;
-  animation: arrowFadeIn 2s 2s;
-  animation-fill-mode: forwards;
-}
 
 #about-page .blinking-cursor {
   color: gold;
@@ -184,33 +193,11 @@ section .title-bar a {
   margin: 10px 0;
 }
 
-#skills-page .arrow {
-  color: var(--lighter-text-color);
-  text-decoration: none;
-  opacity: 0;
-  font-weight: 100;
-  font-size: 10rem;
-  float: right;
-  animation: arrowFadeIn 2s 2s;
-  animation-fill-mode: forwards;
-}
-
 #projects-page .box {
   border: 2px solid var(--lighter-text-color);
   border-radius: 10px;
   padding: 20px;
   margin: 0 15px 30px 15px;
-}
-
-#projects-page .arrow {
-  color: var(--lighter-text-color);
-  text-decoration: none;
-  opacity: 0;
-  font-weight: 100;
-  font-size: 10rem;
-  float: right;
-  animation: arrowFadeIn 2s 2s;
-  animation-fill-mode: forwards;
 }
 
 #projects-page .box h2{
