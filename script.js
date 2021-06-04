@@ -25,7 +25,6 @@ function showArrow() {
   } else {
     arrow.style.opacity = "1";
   }
-  console.log(currentPage, " checking");
 }
 
 showArrow();
