@@ -15,6 +15,21 @@ let currentPage = window.location.href.split("#")[1];
 // handle if user is on root page
 if (!currentPage) currentPage = pages[0];
 
+function restartChildAnimations(elementName) {
+  let element = document.getElementById(elementName);
+  console.log("restarting animations on", elementName);
+  element.childNodes.forEach((child) => {
+    if (child.style) {
+      let oldList = Array.from(child.classList);
+      child.classList = "transparent";
+      setTimeout(() => {
+        child.classList = "";
+        oldList.forEach((style) => child.classList.add(style));
+      }, 0);
+    }
+  });
+}
+
 function showArrow() {
   // find the current page the user is on
   let currentPage = window.location.href.split("#")[1];
@@ -25,6 +40,7 @@ function showArrow() {
   } else {
     arrow.style.opacity = "1";
   }
+  // restartChildAnimations(currentPage);
 }
 
 showArrow();

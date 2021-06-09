@@ -33,6 +33,7 @@ section {
   height: 100vh;
   padding: 50px;
   z-index: 1;
+  overflow: scroll;
 }
 
 h1 {
@@ -52,12 +53,17 @@ section:first-child h1 {
   margin-bottom: 0;
 }
 
+.arrow-parent {
+  position: absolute;
+  right: 30px;
+  bottom: 0px;
+}
+
 .arrow {
   color: var(--lighter-text-color);
   z-index: 10;
   font-size: 10rem;
   position: sticky;
-  top: 90vh;
   float: right;
   transition: all ease 0.2s;
 }
@@ -102,6 +108,10 @@ section:first-child h1 {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+}
+
+.transparent {
+  opacity: 0;
 }
 
 .intro-section .next {
@@ -231,5 +241,35 @@ section .title-bar a {
 @media screen and (max-width: 850px) {
   body {
     width: 100%;
+    height: fit-content;
+    overflow: scroll;
+  }
+
+  section {
+    padding: 50px;
+    z-index: 1;
+    overflow: scroll;
+  }
+
+  .main {
+    scroll-behavior: smooth;
+    overflow:auto;
+  }
+
+  .intro-section {
+    flex-direction: column;
+  }
+
+  @keyframes arrowFadeIn {
+    0% {
+      display: none;
+      opacity: 0;
+  
+    }
+  
+    100% {
+      opacity: 1;
+      display: inline;
+    }
   }
 }
