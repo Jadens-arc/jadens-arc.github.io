@@ -12,11 +12,12 @@
 
 html {
   scroll-behavior: smooth;
-  color: var(--text-color);
+  background-color: black;
 }
 
 body {
   background-color: black;
+  color: var(--text-color);
   overflow: hidden;
   font-family: 'Fira Code', sans-serif;
   width: 65%;
