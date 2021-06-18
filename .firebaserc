@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "firebase-basics2345"
+  },
+  "targets": {
+    "firebase-basics2345": {
+      "hosting": {
+        "jadenarceneaux": [
+          "jaden-arceneaux"
+        ]
+      }
+    }
   }
 }
