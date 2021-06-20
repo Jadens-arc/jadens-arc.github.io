@@ -10,11 +10,6 @@ const pages = [
   "contact-page",
 ];
 
-// find the current page the user is on
-let currentPage = window.location.href.split("#")[1];
-// handle if user is on root page
-if (!currentPage) currentPage = pages[0];
-
 function restartChildAnimations(elementName) {
   let element = document.getElementById(elementName);
   console.log("restarting animations on", elementName);
@@ -46,6 +41,10 @@ function showArrow() {
 showArrow();
 
 function adjPage(mod) {
+  // find the current page the user is on
+  let currentPage = window.location.href.split("#")[1];
+  // handle if user is on root page
+  if (!currentPage) currentPage = pages[0];
   let index = pages.indexOf(currentPage);
   if (index + mod < 0) return;
   if (index + mod >= pages.length) {
