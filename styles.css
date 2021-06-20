@@ -24,6 +24,15 @@ body {
   margin: 0 auto;
 }
 
+::-webkit-scrollbar {
+  width: 0px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+
 .main {
   height: 100vh;
   scroll-behavior: smooth;
