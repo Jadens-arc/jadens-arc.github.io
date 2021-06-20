@@ -221,6 +221,7 @@ section .title-bar a {
 #contact-page .options {
   list-style-type: none;
   padding-left: 1rem;
+  margin-bottom: 4rem;
 }
 
 #contact-page .options li {
