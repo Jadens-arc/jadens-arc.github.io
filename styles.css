@@ -269,8 +269,12 @@ section .title-bar a {
     flex-direction: column;
   }
 
+  .intro-section div{
+    margin-bottom: 40%;
+  }
+
   .intro-section .next{
-    margin-top: 40%;
+    margin-bottom: 15%;
   }
   
   .intro-section .next br{
@@ -281,7 +285,7 @@ section .title-bar a {
     line-height: 2rem;
     font-size: 1rem;
   }
-  
+
   #skills-page .skills {
     font-size: 1rem;
   }
