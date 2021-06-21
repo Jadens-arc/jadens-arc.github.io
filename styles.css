@@ -221,10 +221,21 @@ section .title-bar a {
   margin: 0 15px 30px 15px;
 }
 
-#projects-page .box h2{
+#projects-page .box .top {
   border-bottom: 2px solid var(--lighter-text-color);
   margin-bottom: 15px;
   padding-bottom: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+
+#projects-page .box a {
+  font-size: 1.5em;
+  text-decoration: none;
+  color: #242535;
+  padding: 0 10px;
+  border: 1px solid var(--lighter-text-color);
+  border-radius: 7px;
 }
 
 #contact-page .options {
