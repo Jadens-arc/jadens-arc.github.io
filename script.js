@@ -7,6 +7,7 @@ const pages = [
   "about-page",
   "skills-page",
   "projects-page",
+  "experience-page",
   "contact-page",
 ];
 

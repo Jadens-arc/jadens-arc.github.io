@@ -112,6 +112,7 @@ section:first-child h1 {
   opacity: 0;
   animation: fadeIn 2s 2s;
   animation-fill-mode: forwards;
+  text-align: center;
 }
 
 .intro-section div {
@@ -153,7 +154,6 @@ section:first-child h1 {
   0% {
     display: none;
     opacity: 0;
-
   }
 
   100% {
@@ -214,14 +214,14 @@ section .title-bar a {
   margin: 10px 0;
 }
 
-#projects-page .box {
+.box {
   border: 2px solid var(--lighter-text-color);
   border-radius: 10px;
   padding: 20px;
   margin: 0 15px 30px 15px;
 }
 
-#projects-page .box .top {
+.box .top {
   border-bottom: 2px solid var(--lighter-text-color);
   margin-bottom: 15px;
   padding-bottom: 15px;
@@ -229,7 +229,7 @@ section .title-bar a {
   justify-content: space-between;
 }
 
-#projects-page .box a {
+.box a {
   font-size: 1.5em;
   text-decoration: none;
   color: #242535;
@@ -256,7 +256,6 @@ section .title-bar a {
   margin-left: -20px;
 }
 
-
 #contact-page .options li a {
   color: var(--text-color);
 }
@@ -264,15 +263,22 @@ section .title-bar a {
 @media screen and (max-width: 850px) {
   body {
     width: 100%;
+    overflow: visible;
+    height: fit-content;
   }
 
   section {
     padding: 50px;
     z-index: 1;
-    overflow: scroll;
+    overflow: visible;
+  }
+
+  section .title-bar a {
+    display: none;
   }
 
   .main {
+    height: fit-content;
     scroll-behavior: smooth;
   }
 
