@@ -271,6 +271,16 @@ section .title-bar a {
     padding: 50px;
     z-index: 1;
     overflow: visible;
+    height: fit-content;
+    margin-top: 1vh;
+  }
+  
+  .box .top {
+    flex-direction: column;
+  }
+
+  .box a {
+    margin-top: 10px;
   }
 
   section .title-bar a {
