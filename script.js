@@ -6,8 +6,8 @@ const pages = [
   "intro-section",
   "about-page",
   "skills-page",
-  "projects-page",
   "experience-page",
+  "projects-page",
   "contact-page",
 ];
 
