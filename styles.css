@@ -271,7 +271,7 @@ section .title-bar a {
   }
 
   section {
-    padding: 50px;
+    padding: 20px;
     z-index: 1;
     overflow: visible;
     height: fit-content;
