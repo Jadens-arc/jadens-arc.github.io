@@ -22,15 +22,17 @@ body {
   font-family: 'Fira Code', sans-serif;
   width: 65%;
   margin: 0 auto;
+  scrollbar-width: none;
 }
 
-::-webkit-scrollbar {
+*::-webkit-scrollbar {
   width: 0px;
 }
 
-::-webkit-scrollbar-track {
+*::-webkit-scrollbar-track {
   background: transparent;
 }
+
 
 
 .main {
@@ -44,6 +46,7 @@ section {
   padding: 50px;
   z-index: 1;
   overflow: scroll;
+  scrollbar-width: none;
 }
 
 h1 {
