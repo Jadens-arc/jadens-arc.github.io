@@ -2,4 +2,4 @@
 
 ## My official website/portfolio
 
-Hosted on Google Firebase @ [https://jadenarceneaux.dev](https://jadenarceneaux.dev)
+Hosted on Google Firebase @ [https://jadenarceneaux.com](https://jadenarceneaux.com)
