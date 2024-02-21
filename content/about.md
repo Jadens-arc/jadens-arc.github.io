@@ -6,7 +6,7 @@ draft = false
 ## Overview
 - Self taught full stack developer @ LV.Net
 - Contact@jadenarceneaux.com
-- Dedicated Vim User
+- Dedicated Neovim User
 
 ## Links
 - [Resume](/Resume.pdf)
