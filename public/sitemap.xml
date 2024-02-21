@@ -17,10 +17,10 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-02-20T21:54:19-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-02-20T21:29:10-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2024-02-20T21:29:10-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>

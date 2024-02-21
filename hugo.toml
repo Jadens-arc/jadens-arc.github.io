@@ -6,11 +6,10 @@ theme = "github.com/jadens-arc/archie"
 paginate=3 # articles per page
 
 [params]
-    subtitle = "Just me lol"
-	mode="toggle" # color-mode → light,dark,toggle or auto
+	subtitle = "Just me lol"
+	mode="auto"
 	mathjax = true # enable MathJax support
 	katex = true # enable KaTeX support
-
 
 # Social Tags
 
