@@ -2,7 +2,7 @@ baseURL = 'https://jadens-arc.github.io/'
 languageCode = 'en-us'
 title = 'Jaden Arceneaux'
 copyright = "© Jaden Arceneaux"
-theme = "github.com/athul/archie"
+theme = "github.com/jadens-arc/archie"
 paginate=3 # articles per page
 
 [params]
