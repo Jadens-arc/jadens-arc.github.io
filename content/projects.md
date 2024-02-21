@@ -10,6 +10,4 @@ draft = false
     - A platform for writers
 - [Penny](https://github.com/jadens-arc/Penny)
     - Encrypted journaling desktop app written in Javascript using Electron
-- [Penny](https://github.com/jadens-arc/Penny)
-    - Encrypted journaling desktop app written in Javascript using Electron
 - [Scripty](https://github.com/jadens-arc/Scripty)
