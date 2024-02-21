@@ -6,8 +6,7 @@ theme = "github.com/jadens-arc/archie"
 paginate=3 # articles per page
 
 [params]
-	subtitle = "Just me lol"
-	mode="auto"
+	mode="toggle"
 	mathjax = true # enable MathJax support
 	katex = true # enable KaTeX support
 
