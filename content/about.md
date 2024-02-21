@@ -22,4 +22,8 @@ draft = false
   - Canon 15-45mm
   - Also a huge shoutout to Smallrig for making me a custom camera cage
 
+## Credits
+- Static site generation provided by [Hugo](https://gohugo.io)
+- Theme forked from [Archie](https://github.com/authul/archie)
+
 Much love ❤️
