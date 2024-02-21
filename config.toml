@@ -1,9 +1,9 @@
 # The URL the site will be built for
-base_url = "https://jadens-arc.github.io/"
+base_url = "https://yusufraji.github.io/blog/"
 
 # The site title and description; used in feeds by default.
-title = "Jaden Arceneauc"
-description = "Just me lol"
+title = "nxDev"
+description = "Rants, learning logs and brain dump of a n times developer."
 
 theme = "archie-zola"
 # Whether to automatically compile all Sass files in the sass directory
@@ -59,14 +59,14 @@ menus = [
 [[extra.social]]
 icon = "github"
 name = "GitHub"
-url = "https://github.com/Jaden-arc"
+url = "https://github.com/yusufraji"
 
 [[extra.social]]
 icon = "linkedin"
 name = "LinkedIn"
-url = "https://www.linkedin.com/in/jaden-arceneaux/"
+url = "https://www.linkedin.com/in/yusufraji/"
 
 [[extra.social]]
 icon = "instagram"
 name = "Instagram"
-url = "https://www.instagram.com/jaden.svg"
+url = "https://www.instagram.com/yusufraji42"
