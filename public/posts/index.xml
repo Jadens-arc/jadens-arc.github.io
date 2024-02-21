@@ -7,6 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Jaden Arceneaux</copyright>
+    <lastBuildDate>Tue, 20 Feb 2024 21:54:19 -0800</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Tue, 20 Feb 2024 21:54:19 -0800</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>Just got this thing set up. I&amp;rsquo;m not going to lie it was kinda a pain in the ass. That&amp;rsquo;s mostly my fault though because of how I approached things. I saw this theme and I really liked it so I wanted to use it. The only problem is my only experience with GitHub pages was from years ago and I didn&amp;rsquo;t really like it. Revisiting it after so long was&amp;hellip; jarring to say the least and adjusting to new deploy tools like Hugo was surely something.</description>
+    </item>
   </channel>
 </rss>
