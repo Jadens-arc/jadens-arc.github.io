@@ -25,6 +25,11 @@ name = "LinkedIn"
 icon = "linkedin"
 url = "https://www.linkedin.com/in/jaden-arceneaux/"
 
+[[params.social]]
+name = "Instagram"
+icon = "instagram"
+url = "https://instagram.com/jaden.svg"
+
 # Main menu Items
 
 [[menu.main]]
@@ -33,7 +38,7 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Articles"
+name = "All Posts"
 url = "/posts"
 weight = 2
 
@@ -47,3 +52,7 @@ name = "Projects"
 url = "/projects"
 weight = 4
 
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 5
