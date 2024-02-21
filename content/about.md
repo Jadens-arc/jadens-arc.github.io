@@ -13,6 +13,13 @@ draft = false
 - [LinkedIn](https://www.linkedin.com/in/jaden-arceneaux/)
 - [GitHub](https://github.com/jadens-arc)
 
+## Skills
+- PHP
+- Python
+- Rust
+- C
+- HTML & CSS
+
 ## Other random stuff
 - **Scorpio** sun, Gemini rising, and Cancer moon
 - My favorite languages are Python, Rust, and C
