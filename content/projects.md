@@ -10,7 +10,7 @@ draft = false
 
 2. [Ironmind](https://crates.io/crates/ironmind)
 
-    Esoteric Language interpreter and code execution visualizer. Fully written in rust and available on [crates.io](https://crates.io/crates/ironmind)
+    Esoteric Language interpreter and code execution visualizer. Fully written in rust and available on [crates.io](https://crates.io/crates/ironmind). Currently at 1,700 downloads :D
 
 3. [Penny]()
 
