@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jaden Arceneaux</title>
-    <link>http://localhost:1313/</link>
+    <link>https://jadens-arc.github.io/</link>
     <description>Recent content on Jaden Arceneaux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Jaden Arceneaux</copyright>
     <lastBuildDate>Tue, 20 Feb 2024 21:54:19 -0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jadens-arc.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
-      <link>http://localhost:1313/posts/first-post/</link>
+      <link>https://jadens-arc.github.io/posts/first-post/</link>
       <pubDate>Tue, 20 Feb 2024 21:54:19 -0800</pubDate>
-      <guid>http://localhost:1313/posts/first-post/</guid>
+      <guid>https://jadens-arc.github.io/posts/first-post/</guid>
       <description>Just got this thing set up. I&amp;rsquo;m not going to lie it was kinda a pain in the ass. That&amp;rsquo;s mostly my fault though because of how I approached things. I saw this theme and I really liked it so I wanted to use it. The only problem is my only experience with GitHub pages was from years ago and I didn&amp;rsquo;t really like it. Revisiting it after so long was&amp;hellip; jarring to say the least and adjusting to new deploy tools like Hugo was surely something.</description>
     </item>
     <item>
       <title>Jaden</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://jadens-arc.github.io/about/</link>
       <pubDate>Tue, 20 Feb 2024 21:29:10 -0600</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://jadens-arc.github.io/about/</guid>
       <description></description>
     </item>
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>https://jadens-arc.github.io/projects/</link>
       <pubDate>Tue, 20 Feb 2024 21:29:10 -0600</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>https://jadens-arc.github.io/projects/</guid>
       <description></description>
     </item>
   </channel>

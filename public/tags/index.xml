@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Jaden Arceneaux</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://jadens-arc.github.io/tags/</link>
     <description>Recent content in Tags on Jaden Arceneaux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Jaden Arceneaux</copyright>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jadens-arc.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
