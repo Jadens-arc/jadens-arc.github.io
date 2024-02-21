@@ -4,8 +4,9 @@ date = 2024-02-20T21:29:10-06:00
 draft = false
 +++
 ## Overview
-- Self taught full stack developer @ LV.Net
-- Contact@jadenarceneaux.com
+- Software Developer based in beautiful Las Vegas
+- Full Stack developer @ LV.Net
+- reach me @ Contact@jadenarceneaux.com
 - Dedicated Neovim User
 
 ## Links
@@ -14,11 +15,22 @@ draft = false
 - [GitHub](https://github.com/jadens-arc)
 
 ## Skills
-- PHP
+- PHP 
+  - Symfony framework
+- MySQL
+- Linux System Administration
 - Python
+  - Django & Flask
 - Rust
+  - Rocket
 - C
 - HTML & CSS
+  - Bootstrap
+- Javascript
+  - Node.js
+  - Express.js
+  - Electron.js
+
 
 ## Other random stuff
 - **Scorpio** sun, Gemini rising, and Cancer moon
