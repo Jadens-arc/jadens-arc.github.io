@@ -28,6 +28,6 @@ That influenced every decision that I made throughout the project.
   - Only minimal tracking for audience analytics 
   - The entire website can function without Javascript for users of TOR or other hardened browsers
 
-The result is a platform that almost feels cold and scary. Users are forced to deeply consider the impact of what they share and how it might be interpreted. They are eerily aware that everything they wright will be there forever and will always follow them.
+The result is a platform that almost feels cold and scary. Users are forced to deeply consider the impact of what they share and how it might be interpreted. They are eerily aware that everything they write will be there forever and will always follow them.
 
 It's a really great place to express things you're confident in and feel like other people would appreciate.
