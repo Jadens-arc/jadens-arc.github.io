@@ -18,11 +18,6 @@ Brainfuck works by performing operations on a turing machine. It has 8 main inst
 &LT;     | Move to the left cell
 &period; | Print current cell casted to ascii character
 &comma;  | Get character input from user
-
-It also implement loops with
-
-|
----------|------------------------------
 &lbrack; | Start a loop
 &rbrack; | End a loop
 
