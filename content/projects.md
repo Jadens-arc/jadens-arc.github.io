@@ -3,6 +3,9 @@ title = 'Projects'
 date = 2024-02-20T21:29:10-06:00
 draft = false
 +++
+
+> All code is on GitHub, just click the project
+
 - [Ironmind](https://github.com/jadens-arc/Ironmind)
     - Esoteric Language interpreter and code execution visualizer.
     - Fully written in rust and available on [crates.io](https://crates.io/crates/ironmind). Currently at 1,700 downloads :D
