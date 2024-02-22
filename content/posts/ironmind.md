@@ -23,6 +23,25 @@ Brainfuck works by performing operations on a turing machine. It has 8 main inst
 
 When the instruction parser reaches the `]` it will check the value of the current cell. If the value of the current cell pointed at by the head is zero then the program flows like normal on to the next instruction. If the value is anything other than zero then the instruction parser will jump back to the start of the loop indicated by the `[`.
 
+An (inefficient) hello world program in Brainfuck would look like this.
+
+```brainfuck
+myfile.bf
+++++++++++++[>++++++<-]>.           H
+>++++++++++[>++++++++++<-]>+.       e
+>+++++++++[>++++++++++++<-]>..      l (printed twice)
+>++++++++++[>+++++++++++<-]>+.      o
+>++++[>+++++++++++<-]>.             (comma)
+>++++[>++++++++<-]>.                (space)
+>++++++++[>+++++++++++<-]>-.        W
+>++++++++++[>+++++++++++<-]>+.      o
+>++++++++++[>+++++++++++<-]>++++.   r
+>+++++++++[>++++++++++++<-]>.       l
+>++++++++++[>++++++++++<-]>.        d
+>++++[>++++++++<-]>+.               (exclamation)
+>+++[>+++<-]>+.                     (new line)
+```
+
 ## Turing Machine
 But what is a Turing Machine in the first place. It's an abstract model of computation first thought of by Alan Turing. It serves as the basis for understanding what can and can't be computed algorithmically. It revolves around a tape, which is a one dimensional array of memory and a head which points to a specific cell on the tape and can modify it. The head can also move across the tape to different cells. The head's behavior is guided by a set of instructions (a program) to perform such actions. It is said that any system that is Turing Complete can compute any algorithm that any other Turing Complete machine can. The hardware that makes up computers is Turing Complete and many things around us that you might not suspect are also Turing Complete including: water (additional hardware needed), Microsoft Powerpoints, and Minecraft Redstone. All of these things can theoretically perform any computation a normal computer can (with varying degrees of speed and reliability).
 
