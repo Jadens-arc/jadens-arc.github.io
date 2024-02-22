@@ -2,6 +2,7 @@
 title = 'About Me'
 date = 2024-02-20T21:29:10-06:00
 draft = false
+aliases = ["/link-in-bio"]
 +++
 ## Overview
 - Software Developer based in beautiful Las Vegas
