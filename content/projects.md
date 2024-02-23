@@ -8,7 +8,7 @@ draft = false
 
 - [Ironmind](https://github.com/jadens-arc/Ironmind)
     - Esoteric Language interpreter and code execution visualizer.
-    - Fully written in rust and available on [crates.io](https://crates.io/crates/ironmind). Currently at 1,700 downloads :D
+    - Fully written in rust and available on [crates.io](https://crates.io/crates/ironmind). Currently at 2,000 downloads :D
 - [Opium.press](https://github.com/jadens-arc/opium.press)
     - A platform for writers to share ideas and opinions
     - Written in PHP using the Symfony framework
