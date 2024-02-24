@@ -27,7 +27,8 @@ That influenced every decision that I made throughout the project.
   - No bloated frameworks like React or Angular
   - Only minimal tracking for audience analytics 
   - The entire website can function without Javascript for users of TOR or other hardened browsers
+  - The whole platform is free and open source and can be audited or forked by anyone
 
 The result is a platform that almost feels cold and scary. Users are forced to deeply consider the impact of what they share and how it might be interpreted. They are eerily aware that everything they write will be there forever and will always follow them.
 
-It's a really great place to express things you're confident in and feel like other people would appreciate.
+It's a really great place to express things you're confident in and feel like other people would appreciate. To this day I still write music reviews on there and I would really appreciate if you read them
