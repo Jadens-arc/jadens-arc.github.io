@@ -21,7 +21,7 @@ That influenced every decision that I made throughout the project.
 - The fact that posts and accounts aren't deletable further reinforces the previous point
 - The choice to paginate timelines rather than implement infinite scroll forces the user to know exactly how deep they are and limits "doom scrolling"
 - The choice of chronological timelines over target feeds that try to always show the user exactly what they want limits echo chambers
-- No instant gratification systems (likes, thumbs up, etc) which reduces emotional dependency on the pat
+- No instant gratification systems (likes, thumbs up, etc) which reduces emotional dependency on the platform
 - The strong focus on simplicity and privacy
   - No selling data
   - No bloated frameworks like React or Angular
