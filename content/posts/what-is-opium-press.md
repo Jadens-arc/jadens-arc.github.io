@@ -8,7 +8,7 @@ The shallow answer is a social media platform written in PHP using the Symfony f
 
 But that still leaves the question of why it exists? 
 
-I made it with the intent of having a place to publish my music reviews and allow other people publish whatever else they wanted to write. By far I'm the most active on my instagram which isn't convient for posting large blocks of text but by having Opium.press I am able to share a single link
+I made it with the intent of having a place to publish my music reviews and allow other people publish whatever else they wanted to write. By far I'm the most active on my instagram which isn't convenient for posting large blocks of text but by having Opium.press I am able to share a single link
 
 When I started planning out Opium.press I realized there were a lot of issues with other platforms that I felt like I could address.
 
