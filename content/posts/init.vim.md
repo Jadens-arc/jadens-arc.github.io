@@ -17,7 +17,7 @@ I know no one cares about my dotfiles. That's not going to stop me from sharing 
   - Then run `nvm install --lts`
 - After installing the dependencies and coping the init.vim file run 
   `: PlugInstall` in command mode
-- For language server support run `CocInstall <server-name>`
+- For language server support run `: CocInstall <server-name>`
   - To see a full list of language servers go [here](https://github.com/neoclide/coc.nvim/wiki/Language-servers)
   - For Python install coc-pyright
   - For Rust install coc-rust-analyzer
