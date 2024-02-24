@@ -60,3 +60,6 @@ Or you can download it from
 [Crates.io](https://crates.io/crates/Ironmind)
 by runnning
 `cargo install ironmind`
+
+Also I want to give a big thank you to everyone who downloaded it :D 
+[![Crates.io](https://img.shields.io/crates/d/ironmind)](https://crates.io/crates/ironmind)
