@@ -10,6 +10,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 [params]
+	description = "Full Stack Web Developer based in Las Vegas, Nevada"
 	mode="toggle"
 	mathjax = true # enable MathJax support
 	katex = true # enable KaTeX support
