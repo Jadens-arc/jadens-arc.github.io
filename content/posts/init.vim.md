@@ -31,64 +31,64 @@ set clipboard=unnamedplus   " using system clipboard
 filetype plugin on
 set linebreak
 set ttyfast                 " Speed up scrolling in Vim
-" set spell                 " enable spell check (may need to download language package)
-" set noswapfile            " disable creating swap file
-" set backupdir=~/.cache/vim " Directory to store backup files.
-set so=5 " Always center cursor
+set spell                 " enable spell check (may need to download language package)
+set so=5 
 
 call plug#begin("~/.vim/plugged")
- " Plugin Section
- Plug 'dracula/vim'
-" Plug 'ryanoasis/vim-devicons'
- Plug 'nvim-tree/nvim-web-devicons'
- Plug 'SirVer/ultisnips'
- Plug 'honza/vim-snippets'
- Plug 'scrooloose/nerdtree'
- Plug 'preservim/nerdcommenter'
- Plug 'mhinz/vim-startify'
- Plug 'bluz71/vim-moonfly-colors'
- Plug 'neoclide/coc.nvim', {'branch': 'release'}
- Plug 'nanotech/jellybeans.vim'
- Plug 'folke/tokyonight.nvim'
- Plug 'vim-scripts/AutoComplPop'
- Plug 'windwp/nvim-autopairs'
- Plug 'nvim-lualine/lualine.nvim'
- Plug 'nvim-tree/nvim-web-devicons'
+Plug 'dracula/vim'
+Plug 'nvim-tree/nvim-web-devicons'
+Plug 'SirVer/ultisnips'
+Plug 'honza/vim-snippets'
+Plug 'scrooloose/nerdtree'
+Plug 'preservim/nerdcommenter'
+Plug 'mhinz/vim-startify'
+Plug 'bluz71/vim-moonfly-colors'
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
+Plug 'nanotech/jellybeans.vim'
+Plug 'folke/tokyonight.nvim'
+Plug 'vim-scripts/AutoComplPop'
+Plug 'windwp/nvim-autopairs'
+Plug 'nvim-lualine/lualine.nvim'
+Plug 'nvim-tree/nvim-web-devicons'
 call plug#end()
+
 lua << END
 require('lualine').setup()
 require("nvim-autopairs").setup {}
 END
-" color schemes
+
  if (has("termguicolors"))
- "set termguicolors
  endif
  syntax enable
   colorscheme jellybeans
- " colorscheme jellybeans
+
 set splitright
 set splitbelow
 
-" move line or visually selected block - alt+j/k
 inoremap <A-j> <Esc>:m .+1<CR>==gi
 inoremap <A-k> <Esc>:m .-2<CR>==gi
 vnoremap <A-j> :m '>+1<CR>gv=gv
 vnoremap <A-k> :m '<-2<CR>gv=gv" move split panes to left/bottom/top/right
- nnoremap <A-h> <C-W>H
- nnoremap <A-j> <C-W>J
- nnoremap <A-k> <C-W>K
- nnoremap <A-l> <C-W>L" move between panes to left/bottom/top/right
- nnoremap <C-h> <C-w>h
- nnoremap <C-j> <C-w>j
- nnoremap <C-k> <C-w>k
- nnoremap <C-l> <C-w>l
+nnoremap <A-h> <C-W>H
+nnoremap <A-j> <C-W>J
+nnoremap <A-k> <C-W>K
+nnoremap <A-l> <C-W>L" move between panes to left/bottom/top/right
+nnoremap <C-h> <C-w>h
+nnoremap <C-j> <C-w>j
+nnoremap <C-k> <C-w>k
+nnoremap <C-l> <C-w>l
+noremap j gj
+noremap k gk
+nnoremap <leader>n :NERDTreeFocus<CR>
+nnoremap <C-n> :NERDTree<CR>
+nnoremap <C-t> :NERDTreeToggle<CR>
+nnoremap <C-f> :NERDTreeFind<CR>
+
+inoremap jk <Esc>
 
 let g:UltiSnipsExpandTrigger="<tab>"
 let g:UltiSnipsListSnippets="<c-l>"
 
-"
-" Press i to enter insert mode, and ii to exit insert mode.
-:inoremap jk <Esc>
 
 " open file in a text by placing text and gf
 nnoremap gf :vert winc f<cr>" copies filepath to clipboard by pressing yf
@@ -99,13 +99,6 @@ if has("autocmd")
   au BufReadPost * if line("'\"") > 0 && line("'\"") <= line("$")
     \| exe "normal! g'\"" | endif
 endif
-
-nnoremap <leader>n :NERDTreeFocus<CR>
-nnoremap <C-n> :NERDTree<CR>
-nnoremap <C-t> :NERDTreeToggle<CR>
-nnoremap <C-f> :NERDTreeFind<CR>
-
-
 ```
 
 
