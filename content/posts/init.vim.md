@@ -8,6 +8,29 @@ description = ""
 
 I know no one cares about my dotfiles. That's not going to stop me from sharing them.
 
+## Installation
+- Install [Neovim](https://neovim.io/)
+- Install [Vimplug](https://github.com/junegunn/vim-plug)
+- Make sure you have the latest version of NodeJS installed
+  - Some package managers(apt) won't install the latest version by default
+  - I'd recommend installing [NVM (Node version manager)](https://github.com/nvm-sh/nvm)
+  - Then run `nvm install --lts`
+- After installing the dependencies and coping the init.vim file run 
+  `: PlugInstall` in command mode
+- For language server support run `CocInstall <server-name>`
+  - To see a full list of language servers go [here](https://github.com/neoclide/coc.nvim/wiki/Language-servers)
+  - For Python install coc-pyright
+  - For Rust install coc-rust-analyzer
+> Note: Rust analyzer has issues compiling for M1 macs. 
+>
+> From my experience it's best to just [clone the repository](https://github.com/rust-lang/rust-analyzer) and compile it yourself using `cargo build --release`
+>
+> The executable will be in `target/release/rust-analyzer`
+>
+> Move it to `~/.config/coc/extensions/coc-rust-analyzer-data/rust-analyzer`
+
+
+## init.vim
 
 ``` vimscript
 set nocompatible            " disable compatibility to old-time vi
