@@ -7,7 +7,7 @@ aliases = ["/link-in-bio"]
 ## Overview
 - Software Developer based in beautiful Las Vegas
 - Full Stack developer @ LV.Net
-- reach me @ Contact@jadenarceneaux.com
+- reach me @ contact@jadenarceneaux.com
 - Dedicated Neovim User
 
 ## Links
