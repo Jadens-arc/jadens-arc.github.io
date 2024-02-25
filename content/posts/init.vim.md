@@ -46,6 +46,8 @@ set shiftwidth=2            " width for autoindents
 set autoindent              " indent a new line the same amount as the line just typed
 set number                  " add line numbers
 set relativenumber
+"set wildmenu
+"set wildmode=longest,list   " get bash-like tab completions
 filetype plugin indent on   "allow auto-indenting depending on file type
 syntax on                   " syntax highlighting
 set mouse=a                 " enable mouse click
@@ -69,7 +71,7 @@ Plug 'bluz71/vim-moonfly-colors'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'nanotech/jellybeans.vim'
 Plug 'folke/tokyonight.nvim'
-Plug 'vim-scripts/AutoComplPop'
+"Plug 'vim-scripts/AutoComplPop'
 Plug 'windwp/nvim-autopairs'
 Plug 'nvim-lualine/lualine.nvim'
 Plug 'nvim-tree/nvim-web-devicons'
@@ -83,7 +85,7 @@ END
  if (has("termguicolors"))
  endif
  syntax enable
-  colorscheme jellybeans
+  colorscheme moonfly
 
 set splitright
 set splitbelow
