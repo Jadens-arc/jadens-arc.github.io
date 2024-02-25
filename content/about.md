@@ -16,14 +16,14 @@ aliases = ["/link-in-bio"]
 - [GitHub](https://github.com/jadens-arc)
 
 ## Skills
-- PHP 
+- 🐘 PHP 
   - Symfony framework
+- 🐍 Python
+  - Django & Flask
+- 🦀 Rust
+  - Rocket
 - MySQL
 - Linux System Administration
-- Python
-  - Django & Flask
-- Rust
-  - Rocket
 - C
 - HTML & CSS
   - Bootstrap
