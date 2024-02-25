@@ -15,5 +15,7 @@ So far, things have been going well. I used my PC to move all of the photos from
 
 I'm not going to lie using it can be pretty slow but Photoprism recommends using a Raspberry Pi 4 and up for that exact reason. Currently, it's been running for a little over two days now and has indexed 2,444 raw images. Which is extremely impressive. Unfortunately that's only a fourth of the photos from my camera and none of the photos from Google Photos so I expect this process will likely take at least a week to complete.
 
+After indexing is complete there are a couple hardware upgrades I want to make. First is getting a newer Raspberry Pi and second is getting another hard drive so I can have data redundancy.
+
 I'll keep you guys updated with how things are going :)
 
