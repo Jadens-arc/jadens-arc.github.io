@@ -50,6 +50,6 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDY4ToqbkHvKCv/iAdK1ib+6/CzJEo+ofYrWNmqewE/
 - Static site generation provided by [Hugo](https://gohugo.io)
 - Theme forked from [Archie](https://github.com/authul/archie)
 - Hosted on GitHub IO
-- All code on GitHub](https://github.com/jadens-arc/jadens-arc.github.io)
+- All code on [GitHub](https://github.com/jadens-arc/jadens-arc.github.io)
 
 Much love ❤️
