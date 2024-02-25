@@ -36,7 +36,7 @@ aliases = ["/link-in-bio"]
 ## Other random stuff
 - **Scorpio** sun, Gemini rising, and Cancer moon
 - My favorite languages are Python, Rust, and C
-- Also I do photography as a hobby
+Also, I do photography as a hobby
   - Canon M200
   - Sigma 30mm
   - Canon 15-45mm
@@ -45,7 +45,7 @@ aliases = ["/link-in-bio"]
 ## Credits
 - Static site generation provided by [Hugo](https://gohugo.io)
 - Theme forked from [Archie](https://github.com/authul/archie)
-- Hosted on Github IO
-- All code on [Github](https://github.com/jadens-arc/jadens-arc.github.io)
+- Hosted on GitHub IO
+- All code on GitHub](https://github.com/jadens-arc/jadens-arc.github.io)
 
 Much love ❤️
