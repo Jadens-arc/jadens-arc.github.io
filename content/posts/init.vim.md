@@ -20,7 +20,9 @@ I know no one cares about my dotfiles. That's not going to stop me from sharing 
 - For language server support run `: CocInstall <server-name>`
   - To see a full list of language servers go [here](https://github.com/neoclide/coc.nvim/wiki/Language-servers)
   - For Python install coc-pyright
+  - For C/C++ install coc-clangd
   - For Rust install coc-rust-analyzer
+- For code snippets run `: CocInstall coc-snippets`
 > Note: Rust analyzer has issues compiling for M1 macs. 
 >
 > From my experience it's best to just [clone the repository](https://github.com/rust-lang/rust-analyzer) and compile it yourself using `cargo build --release`
@@ -71,6 +73,7 @@ Plug 'bluz71/vim-moonfly-colors'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'nanotech/jellybeans.vim'
 Plug 'folke/tokyonight.nvim'
+Plug 'honza/vim-snippets'
 "Plug 'vim-scripts/AutoComplPop'
 Plug 'windwp/nvim-autopairs'
 Plug 'nvim-lualine/lualine.nvim'
