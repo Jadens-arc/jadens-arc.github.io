@@ -19,3 +19,8 @@ After indexing is complete there are a couple of hardware upgrades I want to mak
 
 I'll keep you guys updated on how things are going :)
 
+## Updates
+**Feb 27, 2024**
+
+I installed [Tailscale](https://tailscale.com/) on my Raspberry Pi. It's a really handy VPN services that allows connected devices to act like they're on the same LAN. This gives me the ability to access all my pictures from anywhere without port forwarding. I really need to upgrade my hardware now :(
+
