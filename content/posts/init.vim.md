@@ -9,8 +9,8 @@ description = ""
 I know no one cares about my dotfiles. That's not going to stop me from sharing them.
 
 ## Installation
-- Install [Neovim](https://neovim.io/)
-- Install [Vimplug](https://github.com/junegunn/vim-plug)
+- Install [Neovim](https://github.com/neovim/neovim/blob/master/INSTALL.md)
+- Install [Vimplug](https://github.com/junegunn/vim-plug?tab=readme-ov-file#installation)
 - Make sure you have the latest version of NodeJS installed
   - Some package managers(apt) won't install the latest version by default
   - I'd recommend installing [NVM (Node version manager)](https://github.com/nvm-sh/nvm)
