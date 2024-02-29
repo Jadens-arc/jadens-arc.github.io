@@ -21,6 +21,9 @@ I know no one cares about my dotfiles. That's not going to stop me from sharing 
   - To see a full list of language servers go [here](https://github.com/neoclide/coc.nvim/wiki/Language-servers)
   - For Python install coc-pyright
   - For C/C++ install coc-clangd
+  - For HTML install coc-html
+  - For CSS install coc-css
+  - For Javascript install coc-tsserver
   - For Rust install coc-rust-analyzer
 - For code snippets run `: CocInstall coc-snippets`
 > Note: Rust analyzer has issues compiling for M1 macs. 
@@ -31,6 +34,8 @@ I know no one cares about my dotfiles. That's not going to stop me from sharing 
 >
 > Move it to `~/.config/coc/extensions/coc-rust-analyzer-data/rust-analyzer`
 
+> Another Node:
+> The default mac terminal app doesn't support the full spectrum of colors needed for most Neovim themes. The one I included will work on mac but if you try to install another one it might not work. One work around is to install a new terminal emulator, I'd recommend [Kitty](https://sw.kovidgoyal.net/kitty/) but at a certain point one must wonder "am truly doing too much?"
 
 ## init.vim
 
