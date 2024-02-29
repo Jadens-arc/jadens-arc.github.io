@@ -35,7 +35,7 @@ I know no one cares about my dotfiles. That's not going to stop me from sharing 
 > Move it to `~/.config/coc/extensions/coc-rust-analyzer-data/rust-analyzer`
 
 > Another Note:
-> The default mac terminal app doesn't support the full spectrum of colors needed for most Neovim themes. The one I included will work but if you try to install another one it might not. One work around is to install a new terminal emulator, I'd recommend [Kitty](https://sw.kovidgoyal.net/kitty/) but at a certain point one must wonder "am truly doing too much?"
+> The default mac terminal app doesn't support the full spectrum of colors needed for most Neovim themes. The one I included will work but if you try to install another one it might not. One work around is to install a new terminal emulator, I'd recommend [Kitty](https://sw.kovidgoyal.net/kitty/) but at a certain point one must wonder "am I truly doing too much?"
 
 ## init.vim
 
