@@ -56,10 +56,70 @@ It's written in Rust and prioritizes memory safety and efficiency.
 You can see how it works on 
 [GitHub](https://github.com/jadens-arc/Ironmind)
 
-Or you can download it from
-[Crates.io](https://crates.io/crates/Ironmind) 
-by running
-`cargo install ironmind`
+
+## Installation Instructions
+### Cargo
+Run `cargo install ironmind` to install the application from [crates.io](https://crates.io/).
+
+## Usage
+
+### Run Program
+
+```shell
+ironmind myfile.bf
+```
+Output:
+```
+Hello, World!
+```
+
+### Visualize Execution
+
+```shell
+ironmind -v myfile.bf
+```
+Output:
+![visualizer](/visualizer.png)
+
+## Build Instructions
+### System Dependencies
+- Rust
+- Cargo
+
+### Rust Dependencies (These install automatically)
+- Clap for processing command line arguments and flags
+- Cursive for TUI
+
+### Build Notes
+- Cursive is a wrapper around the ncurses linux library
+  - If this library isn't present on your machine then it must be installed before ironmind can be built
+  - On debian systems ncurses can be installed using ``` sudo apt install libncurses5-dev libncursesw5-dev ```
+
+### Run for Debugging / Testing
+```shell
+git clone https://github.com/Jadens-arc/Ironmind
+cd Ironmind
+cargo run myfile.bf
+```
+To run automated tests run
+```shell
+cargo test
+```
+Tests are found in ```src/tests```
+
+### Compiling Executable
+```shell
+git clone https://github.com/Jadens-arc/Ironmind
+cd Ironmind
+cargo build --release
+```
+The executable will be found at ```target/release/ironmind```
+
+Run using ```./ironmind```
+
+Feel free to move it to a ```Bin/``` directory if you want
+
+If you do move it, you can use   ```ironmind myfile.bf``` anywhere on your system
 
 Also, I want to give a big thank you to everyone who downloaded it :D 
 ![Crates.io](https://img.shields.io/crates/d/ironmind)
