@@ -14,6 +14,7 @@ aliases = ["/link-in-bio"]
 - [Resume](/Resume.pdf)
 - [LinkedIn](https://www.linkedin.com/in/jaden-arceneaux/)
 - [GitHub](https://github.com/jadens-arc)
+- [Instagram](https://instagram.com/jaden.svg)
 
 ## Skills
 - 🐘 PHP 
@@ -36,8 +37,8 @@ aliases = ["/link-in-bio"]
 ## Other random stuff
 - *Scorpio* sun, Gemini rising, and Cancer moon
 - My favorite languages are Python, Rust, and C
-Also, I do photography as a hobby
-  - Canon M200
+- Also, I do photography as a hobby
+  - Canon M200 📷
   - Sigma 30mm
   - Canon 15-45mm
   - Also a huge shoutout to Smallrig for making me a custom camera cage
