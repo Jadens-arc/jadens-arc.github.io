@@ -2,7 +2,7 @@
   <div style="display:flex">
     {{- range $index, $key := .Site.Params.Social -}}
     <a class="soc" href="{{ $key.url }}" rel="me" title="{{ $key.name }}"><i data-feather="{{ $key.icon }}"></i></a>
-    <a class="border"></a>
+    <span class="border"></span>
     {{- end -}}
   </div>
   <div class="footer-info">
