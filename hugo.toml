@@ -2,12 +2,13 @@ baseURL = 'https://jadens-arc.github.io/'
 languageCode = 'en-us'
 title = 'Jaden Arceneaux'
 copyright = "© Jaden Arceneaux"
-theme = "github.com/jadens-arc/archie"
 paginate=5 # articles per page
 # Code Highlight
 pygmentsstyle = "dracula"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
+
+theme = "archie"
 
 [params]
   subtitle="Software Developer based in Las Vegas, Nevada"
