@@ -10,7 +10,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 [params]
-  subtitle="Software Developer based in Las Vegas, Nevada😎"
+  subtitle="Software Developer based in Las Vegas, Nevada"
 	description = "Software Developer based in Las Vegas, Nevada"
 	mode="toggle"
 	mathjax = true # enable MathJax support
