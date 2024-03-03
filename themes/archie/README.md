@@ -7,8 +7,6 @@ Forked from [Ezhil Theme](https://github.com/vividvilla/ezhil)
 
 [Check the Demo](https://athul.github.io/archie/) hosted on GitHub Pages :smile: . You can find the source code to that in the `site` branch of this repository
 
-![](/images/theme.png)
-![](/images/archie-dark.png)
 ## Feature
 - Google Analytics Script
 - Callouts
