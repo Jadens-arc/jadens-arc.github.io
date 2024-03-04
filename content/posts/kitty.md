@@ -2,6 +2,7 @@
 title = 'Kitty'
 date = 2024-03-03T21:13:02-08:00
 draft = false
+tags=["mac", "configs", "neovim"]
 +++
 
 While on a quest to have the best Neovim set up possible, I hit a roadblock.
