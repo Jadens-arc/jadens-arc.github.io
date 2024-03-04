@@ -1,54 +1,3 @@
-+++
-title = '~/.config/nvim/init.vim'
-date = 2024-02-23T21:42:19-08:00
-draft = false
-tags=["linux", "neovim", "configs"]
-+++
-
-I know no one cares about my dotfiles. That's not going to stop me from sharing them.
-
-[Download init.vim](/init.vim)
-
-## Installation
-- Install [Neovim](https://github.com/neovim/neovim/blob/master/INSTALL.md)
-- Install [Vimplug](https://github.com/junegunn/vim-plug?tab=readme-ov-file#installation)
-- Make sure you have the latest version of NodeJS installed
-  - Some package managers(apt) won't install the latest version by default
-  - I'd recommend installing [NVM (Node version manager)](https://github.com/nvm-sh/nvm)
-  - Then run `nvm install --lts`
-- After installing the dependencies and coping the init.vim file run 
-  `: PlugInstall` in command mode
-- For language server support run `: CocInstall <server-name>`
-  - To see a full list of language servers go [here](https://github.com/neoclide/coc.nvim/wiki/Language-servers)
-  - For Python install coc-pyright
-  - For C/C++ install coc-clangd
-  - For HTML install coc-html
-  - For CSS install coc-css
-  - For Javascript install coc-tsserver
-  - For Rust install coc-rust-analyzer
-- For code snippets run `: CocInstall coc-snippets`
-> Note: Rust analyzer has issues compiling for M1 macs. 
->
-> From my experience it's best to just [clone the repository](https://github.com/rust-lang/rust-analyzer) and compile it yourself using `cargo build --release`
->
-> The executable will be in `target/release/rust-analyzer`
->
-> Move it to `~/.config/coc/extensions/coc-rust-analyzer-data/rust-analyzer`
-
-> Another Note:
-> The default mac terminal app doesn't support the full spectrum of colors needed for most Neovim themes. The one I included will work but if you try to install another one it might not. One work around is to install a new terminal emulator, I'd recommend [Kitty](https://sw.kovidgoyal.net/kitty/) but at a certain point one must wonder "am I truly doing too much?"
-
-
-
-## Change Log
-**Mar 3, 2024**
-
-- added new theme Catppuccin
-- added download link
-
-## init.vim
-
-``` vimscript
 set nocompatible            " disable compatibility to old-time vi
 set showmatch               " show matching 
 set ignorecase              " case insensitive 
@@ -307,5 +256,3 @@ nnoremap <silent><nowait> <space>j  :<C-u>CocNext<CR>
 nnoremap <silent><nowait> <space>k  :<C-u>CocPrev<CR>
 " Resume latest coc list
 nnoremap <silent><nowait> <space>p  :<C-u>CocListResume<CR>
-```
-
