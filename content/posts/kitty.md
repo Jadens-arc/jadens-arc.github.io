@@ -19,7 +19,7 @@ Trying out [Kitty](https://sw.kovidgoyal.net/kitty/) initially was underwhelming
 - I was able to match my terminal theme to Neovim theme
   - [catppuccin](https://github.com/catppuccin/catppuccin) on top!
 
-I did encounter one issue with it not working correctly with NCurses. I'm not sure what exactly caused this. The application I was trying to use was an application that I wrote so it very well could be my fault. But it was easily resolved by modify the `kitty.config` and setting `term xterm-256color`.
+I did encounter one issue with it not working correctly with NCurses. I'm not sure what exactly caused this. The application I was trying to use was an application I wrote so it very well could be my fault. But it was easily resolved by modify the `kitty.config` and setting `term xterm-256color`.
 
 Currently, I'm using Neovim inside Kitty to write this blog post and I have to say it's very smooth, very responsive, and overall just looks beautiful. 
 
