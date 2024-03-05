@@ -16,8 +16,8 @@ Trying out [Kitty](https://sw.kovidgoyal.net/kitty/) initially was underwhelming
 - The window management is lovely and truly a strong competitor with Tmux.
 - The CLI, kitten,  that comes with Kitty is extremely helpful
 - Built in support for downloading, previewing, and installing themes is so handy
-- The fact that I can easily change the app icon to something other than the ugly default one 
-- I was able to match my terminal theme to Neovim theme
+- The fact that I can easily change the app icon to something other than the ugly default one is amazing
+- and I can match my terminal theme to Neovim theme :D
   - [catppuccin](https://github.com/catppuccin/catppuccin) on top!
 
 I did encounter one issue with it not working correctly with NCurses. I'm not sure what exactly caused this. The application I was trying to use was an application I wrote so it very well could be my fault. But it was easily resolved by modifying the `kitty.config` and setting `term xterm-256color`.
@@ -29,3 +29,5 @@ Currently, I'm using Neovim inside Kitty to write this blog post and I have to s
 The ability to natively split windows is so handy for having an editor window open and my server logs and other notes off to the side.
 
 Overall, I'm impressed. If you're a Mac user who regularly uses the terminal, I'd highly recommend giving Kitty a try.
+
+> Yes I know a lot of this is "rice" but it's nice and it brings me joy
