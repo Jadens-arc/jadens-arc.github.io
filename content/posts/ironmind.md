@@ -49,7 +49,7 @@ Brainfuck brings us right to the edge of computation. Any algorithm you can impl
 
 
 ## What is Ironmind
-Ironmind is my project to interpret Brainfuck instructions and visualize the execution of the program. For anyone looking to understand exactly what's happening inside the machine while their Brainfuck program is running this tool is for you. It allows you to set through your program state by state or jump to any given state of your program.
+[Ironmind](https://github.com/jadens-arc/Ironmind) is a project to interpret Brainfuck instructions and visualize the execution of the program. For anyone looking to understand exactly what's happening inside the machine while their Brainfuck program is running this tool is for you. It allows you to set through your program state by state or jump to any given state of your program.
 
 It's written in Rust and prioritizes memory safety and efficiency. 
 
@@ -57,9 +57,24 @@ You can see how it works on
 [GitHub](https://github.com/jadens-arc/Ironmind)
 
 
+[![Crates.io](https://img.shields.io/crates/l/ironmind)](https://opensource.org/licenses/MIT)
+[![Crates.io](https://img.shields.io/crates/d/ironmind)](https://crates.io/crates/ironmind)
+[![Crates.io](https://img.shields.io/github/actions/workflow/status/jadens-arc/Ironmind/rust.yml)](https://github.com/Jadens-Arc/Ironmind)
+[![ironmind](https://snapcraft.io/ironmind/badge.svg)](https://snapcraft.io/ironmind)
+
+
 ## Installation Instructions
 ### Cargo
-Run `cargo install ironmind` to install the application from [crates.io](https://crates.io/).
+`cargo install ironmind`
+
+### Homebrew
+First `brew tap jadens-arc/tap`
+
+Then `brew install ironmind`
+
+### Snapcraft
+`snap install ironmind`
+
 
 ## Usage
 
@@ -79,7 +94,7 @@ Hello, World!
 ironmind -v myfile.bf
 ```
 Output:
-![visualizer](/visualizer.png)
+![visualizer](doc/visualizer.png)
 
 ## Build Instructions
 ### System Dependencies
@@ -121,5 +136,8 @@ Feel free to move it to a ```Bin/``` directory if you want
 
 If you do move it, you can use   ```ironmind myfile.bf``` anywhere on your system
 
-Also, I want to give a big thank you to everyone who downloaded it :D 
-![Crates.io](https://img.shields.io/crates/d/ironmind)
+
+Also, I found [this really cool](http://www.99-bottles-of-beer.net/language-brainfuck-101.html) BrainF*ck program from 2005 that outputs 99 Bottles of Beer by Andrew Paczkowski
+
+Definitely worth checking out
+
