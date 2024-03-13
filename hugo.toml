@@ -11,6 +11,7 @@ pygmentscodefencesguesssyntax = true
 theme = "archie"
 
 [params]
+  og_image="/logo.png"
   subtitle="Software Developer based in Las Vegas, Nevada"
 	description = "Software Developer based in Las Vegas, Nevada"
 	mode="toggle"
