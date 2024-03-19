@@ -37,6 +37,11 @@ name = "Instagram"
 icon = "instagram"
 url = "https://instagram.com/jaden.svg"
 
+[[params.social]]
+name = "RSS"
+icon = "rss"
+url = "/index.xml"
+
 # Main menu Items
 
 [[menu.main]]
