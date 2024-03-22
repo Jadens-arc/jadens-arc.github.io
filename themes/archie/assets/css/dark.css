@@ -1,3 +1,7 @@
+::-webkit-scrollbar-thumb {
+  background-color: var(--darkMaincolor);
+}
+
 body {
   color: white;
   background-color: #202124;

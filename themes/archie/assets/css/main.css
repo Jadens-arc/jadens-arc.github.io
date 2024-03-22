@@ -6,6 +6,15 @@
 --hovercolor:navy;
 --darkMaincolor: #50fa7b;
 }
+
+::-webkit-scrollbar {
+  width: 0.5vw;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--maincolor);
+}
+
 html {
   color: #232333;
   font-family: 'Roboto Mono', monospace;
