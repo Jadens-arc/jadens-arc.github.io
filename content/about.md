@@ -5,7 +5,7 @@ draft = false
 aliases = ["/link-in-bio"]
 +++
 ## Overview
-- Software Developer based in beautiful Las Vegas ☀️🌵
+- Software Developer based in beautiful Las Vegas, Nevada ☀️🌵
 - Full Stack developer @ ISP.Net
 - Reach me @ contact@jadenarceneaux.com
 - Dedicated Neovim User
