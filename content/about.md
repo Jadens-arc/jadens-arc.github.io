@@ -47,7 +47,7 @@ aliases = ["/link-in-bio"]
 
 ## Credits
 - Static site generation provided by [Hugo](https://gohugo.io)
-- Theme forked from [Archie](https://github.com/authul/archie)
+- Theme forked from [Archie](https://github.com/athul/archie)
 - Hosted on GitHub IO
 - All code on [GitHub](https://github.com/jadens-arc/jadens-arc.github.io)
 
