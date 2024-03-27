@@ -269,6 +269,12 @@ apps:
 ### Publishing Application
 From the command line, you want to run 
 ``` shell
+snapcraft register <your app>
+```
+
+Then run
+
+``` shell
 snapcraft
 ```
 
@@ -276,3 +282,7 @@ This will generate a Snap Package from your `snapcraft.yaml` file.
 
 To test it out, you can run `snap install ./<your app>.snap`
 
+Then run
+```
+snapcraft upload <path to your app>.snap
+```
