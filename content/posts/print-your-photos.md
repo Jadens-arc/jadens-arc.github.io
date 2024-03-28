@@ -1,5 +1,5 @@
 +++
-title = "Print Your Photos & Save your CD's: storage volatility, the impermanence of the cloud, & life after death💀"
+title = "Print Your Photos: storage volatility, the impermanence of the cloud, & life after death💀"
 date = 2024-03-27T19:12:24-07:00
 draft = false
 readTime = 6
