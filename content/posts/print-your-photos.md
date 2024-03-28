@@ -1,7 +1,8 @@
 +++
 title = "Print Your Photos & Save your CD's: storage volatility, the impermanence of the cloud, & life after death💀"
-date = 2024-03-24T14:25:42-07:00
+date = 2024-03-27T19:12:24-07:00
 draft = false
+readTime = 6
 +++
 ## Introduction
 I take a lot of pictures, and I mean a lottt of pictures. If you've read my past blog posts you'd know that. I want to be able to remember such a critical part of my life. I want to be remembered. And I want to capture these memories in as much detail as I can. In a strange twist, it is difficult at times to live in the moment without thinking about how this moment will be remembered. So the topic of data storage is very near and dear to my heart. Three things in particular contributed to my decision to write about this. 
@@ -22,20 +23,22 @@ I assume everyone reading this is at least somewhat tech-savvy, but just in case
 
 **There is no perfect way to store information**. Just as a piece of paper slowly degrades as you write and erase on it, the same fate dooms hard drives, solid-state drives, and every other form of data storage known to man. Even when static, data suffers from gradual deterioration. There's a technical term for this, it's called `bit rot`
 
-**We are in a constant rat race against our technology**. Data loss isn't a rare event. We have whole technologies, like RAID, designed to soften the impact of the inevitable and make data recovery more feasible. For network engineers, the thought of a hard drive crashing isn't even a question, it's a certainty. And god bless these network engineers because without their constant maintenance so much of the modern world would be lost and there'd be a severe lack of *information* in the information age
+**We are in a constant race against our technology**. Data loss isn't a rare, once-in-a-lifetime, event. We have whole technologies, like RAID, designed to soften the impact of the inevitable and make data recovery more feasible. For network engineers, the thought of a hard drive crashing isn't even a question, it's a certainty. And god bless these network engineers because without their constant maintenance so much of the modern world would be lost and there'd be a severe lack of *information* in the information age
 
 ## The Problem
-This raises the question, what happens when this constant upkeep doesn't happen? What happens when our data is left to just sit there, either because of a global crisis or simply a lack of funding/demand? Will this stuff stand the test of time? 
+This raises the question, what happens when this constant upkeep doesn't happen? What happens when our data is left to just sit there, either because of a global crisis or simply a lack of funding/demand? Will this stuff really stand the test of time? 
 
 In the long term, the answer is no. 
 
 The rule of thumb for hard drives is no more than 5 years of sitting unpowered. After that point, the magnetic platter will start to slowly regrade. This can be mitigated by periodically powering on the drive, checking the integrality of the data, and switching drives if necessary but that brings us right back to our problem of needing human maintenance. Generally speaking, SSDs are made to the same standard as hard drives and will die in a similar period.
 
-As for the cloud, MySpace was around for less than 20 years before they managed to lose almost all their data. I don't mean to sound pessimistic but the likelihood of your Google Photos, Snapchat Memories, or Instagram posts being around 50 years from now is next to none. The two latter companies reached their peak long ago and are already on a steady decline. They too will slowly watch their user's memories rot as their parent companies pivot to the next tech boom.
+As for the cloud, MySpace was around for less than 20 years before they managed to lose almost all their data. I don't mean to sound pessimistic but the likelihood of your Google Photos, Snapchat Memories, or Instagram posts being around 50 years from now is next to none. The two latter companies reached their peak long ago and are already on a steady decline. They too will slowly watch their user's memories rot as their parent companies pivot to the next tech gold rush.
 
 There have been some honorable attempts at long-term data storage. GitHub's Arctic Code Vault is a great example. A data center meant to last thousands of years, buried 250 meters below one of the most extreme environments on Earth. A massive and monumental project meant to hold a whopping 21TB of data 😐. Only 4 years later that figure seems almost impossibly small.
+
+Many people also point out the issue of format. Just as texts become unreadable as languages die out, files become unusable as new formats, codecs, and encoding methods take hold old ones slowly fade into obscurity. This isn't nearly as much of a threat as physical wear. Throughout history, humans have been deciphering and decoding writings of the past. Assuming people of the future have technology at or beyond what we have now, 
 
 ## The Solution
 If Microsoft and GitHub couldn't find a practical solution to this problem then what chance do any of us have? If you have pictures of your grandma as a child then you already know the answer to this problem. Physical prints of photos. Printed photos have an average lifespan of 100+ years and they require little to no upkeep. 
 
-I'm not saying you have to print out every picture you've ever taken, but at least the important ones. That could be all that's left of you one day.
+I'm not saying you have to print out every picture you've ever taken, but at least the important ones. Just put them in an album and pass them down to someone you trust. Also try to apply this sentiment to the other aspects of you that you'd like to preserve, documents, emails, journals, your [immortality project](https://www.google.com/search?q=the+subtle+art+of+not+giving+a+f+immortality+project), etc. For better or for worse the internet isn't "forever" so be mindful of what you leave behind.
