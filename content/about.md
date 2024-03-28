@@ -8,6 +8,7 @@ aliases = ["/link-in-bio"]
 - Software Developer based in beautiful Las Vegas, Nevada ☀️🌵
 - Full Stack developer @ ISP.Net
 - Reach me @ contact@jadenarceneaux.com
+  - Feel free to encrypt your emails using the public key provided below. [Learn more](https://www.openpgp.org/)
 - Dedicated Neovim User
 
 ## Links
