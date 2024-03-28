@@ -14,7 +14,6 @@ aliases = ["/link-in-bio"]
 - [Resume](/Resume.pdf)
 - [LinkedIn](https://www.linkedin.com/in/jaden-arceneaux/)
 - [GitHub](https://github.com/jadens-arc)
-- [Instagram](https://instagram.com/jaden.svg)
 - [PGP Public Key](https://keys.openpgp.org/vks/v1/by-fingerprint/AC34D646B6DACBC1804A8EB0E349190839CE77CD)
 
 ## Skills

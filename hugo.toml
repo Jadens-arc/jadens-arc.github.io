@@ -34,11 +34,6 @@ icon = "linkedin"
 url = "https://www.linkedin.com/in/jaden-arceneaux/"
 
 [[params.social]]
-name = "Instagram"
-icon = "instagram"
-url = "https://instagram.com/jaden.svg"
-
-[[params.social]]
 name = "RSS"
 icon = "rss"
 url = "/index.xml"
