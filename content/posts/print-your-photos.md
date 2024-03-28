@@ -30,7 +30,7 @@ This raises the question, what happens when this constant upkeep doesn't happen?
 
 In the long term, the answer is no. 
 
-The rule of thumb for hard drives is no more than 5 years of sitting unpowered. After that point, the magnetic platter will start to slowly regrade. This can be mitigated by periodically powering on the drive, checking the integrality of the data, and switching drives if necessary but that brings us right back to our problem of needing human maintenance. Generally speaking, SSDs are made to the same standard as hard drives and will die in a similar period.
+The rule of thumb for hard drives is no more than 5 years of sitting unpowered. After that point, the magnetic platter will start to slowly degrade. This can be mitigated by periodically powering on the drive, checking the integrity of the data, and switching drives if necessary but that brings us right back to our problem of needing human maintenance. Generally speaking, SSDs are made to the same standard as hard drives and will die in a similar period.
 
 As for the cloud, MySpace was around for less than 20 years before they managed to lose almost all their data. I don't mean to sound pessimistic but the likelihood of your Google Photos, Snapchat Memories, or Instagram posts being around 50 years from now is next to none. The two latter companies reached their peak long ago and are already on a steady decline. They too will slowly watch their user's memories rot as their parent companies pivot to the next tech gold rush.
 
