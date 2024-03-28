@@ -11,13 +11,14 @@ pygmentscodefencesguesssyntax = true
 theme = "archie"
 
 [params]
-  og_image="/icon.png"
-  subtitle="Software Developer based in Las Vegas, Nevada"
+  og_image = "/icon.png"
+  subtitle = "Software Developer based in Las Vegas, Nevada"
 	description = "Software Developer based in Las Vegas, Nevada"
-	mode="toggle"
+	mode = "toggle"
 	mathjax = true # enable MathJax support
 	katex = true # enable KaTeX support
   customcss = ["css/custom.css"]
+	enableRobotsTXT = true
 
 # Social Tags
 
