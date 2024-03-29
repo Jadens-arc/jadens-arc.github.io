@@ -2,7 +2,7 @@
 title = 'Random Update: The Sims'
 date = 2024-03-06T21:25:07-05:00
 draft = false
-tags = ["gaming"]
+tags = ["gaming", "random update"]
 readTime = 1
 +++
 
