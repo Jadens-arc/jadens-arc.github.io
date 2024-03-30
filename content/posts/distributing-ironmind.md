@@ -234,7 +234,7 @@ The final step is to configure the [interfaces](https://snapcraft.io/docs/interf
 ```yaml
 name: ironmind # you probably want to 'snapcraft register <name>'
 base: core22 # the base snap is the execution environment for this snap
-version: '0.3.15' # just for humans, typically '1.2+git' or '1.3.2'
+version: '0.3.15' # just for humans, typically '1.2+git' or '1.3.2', I like to match this to my cargo.toml version
 summary: Brainf*ck interpreter and code execution visualizer # 79 char long summary
 description: |
   Built in Rust.
@@ -269,16 +269,18 @@ apps:
 ### Publishing Application
 From the command line, you want to run 
 ``` shell
-snapcraft register <your app>
+snapcraft login
 ```
 
-Then run
+``` shell
+snapcraft register <your app>
+```
 
 ``` shell
 snapcraft
 ```
 
-This will generate a Snap Package from your `snapcraft.yaml` file.
+This will authenticate your account, register your application with the Snap store, and generate a Snap Package from your `snapcraft.yaml` file.
 
 To test it out, you can run `snap install ./<your app>.snap`
 
@@ -286,3 +288,12 @@ Then run
 ```
 snapcraft upload <path to your app>.snap
 ```
+
+From there you can go to [snapcraft.io](https://snapcraft.io/) to manage your package. 
+
+Using the web interface you can connect your Snap package to a GitHub repository such that each time a merge into master occurs snap will automatically build and distribute your package
+
+## Conclusion
+I really hope this helps someone. If you'd like to suggest any corrections or adjustments feel free to email me at contact@jadenarceneaux.com
+
+I hope you all have a lovely day.
