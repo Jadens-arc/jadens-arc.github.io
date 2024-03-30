@@ -1,6 +1,6 @@
 +++
 title = 'Distributing Ironmind + Rust Continuous Integration' 
-date = 2024-03-30T17:36:26-07:00
+date = 2024-03-30T09:35:13-07:00
 draft = false
 readTime = 11
 +++
