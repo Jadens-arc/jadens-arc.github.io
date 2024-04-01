@@ -43,11 +43,6 @@ name = "Email"
 icon = "mail"
 url = "mailto:contact@jadenarceneaux.com"
 
-[[params.social]]
-name = "PGP Public Key"
-icon = "key"
-url = "/AC34D646B6DACBC1804A8EB0E349190839CE77CD.asc"
-
 # Main menu Items
 
 [[menu.main]]
