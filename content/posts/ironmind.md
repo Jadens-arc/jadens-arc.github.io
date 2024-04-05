@@ -95,7 +95,7 @@ Hello, World!
 ironmind -v myfile.bf
 ```
 Output:
-![visualizer](doc/visualizer.png)
+![visualizer](/visualizer.png)
 
 ## Build Instructions
 ### System Dependencies
