@@ -16,6 +16,6 @@ In truth, I think it lies in something simple. Self-preservation and a generatio
 
 Honestly, that kinda sucks. Just knowing that the only examples of my generation left to represent us will be those who prioritized themselves above all else. 
 
-I wonder how long it'll take before this generational bias sets in on Gen X and Millennials. When the only evidence of them is their worst offerings walking among us.
+I wonder how long it'll take before this generational bias sets in on Gen X and Millennials. When the only evidence of their existence is their worst offerings walking among us.
 
 I wonder what my generation will be held accountable for by future kids and young adults.
