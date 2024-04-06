@@ -166,7 +166,7 @@ h5::before { color: var(--maincolor); content: '##### '; }
 h6::before { color: var(--maincolor); content: '###### '; }
 
 .meta {
-  color: #999;
+  color: #232333;
   letter-spacing: -0.5px;
 }
 

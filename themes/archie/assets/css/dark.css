@@ -11,6 +11,11 @@ time {
   color: whitesmoke;
 }
 
+.meta {
+  color: whitesmoke;
+  letter-spacing: -0.5px;
+}
+
 ::-moz-selection {
   background: blue;
   color: #fff;
