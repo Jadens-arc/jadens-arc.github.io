@@ -16,6 +16,25 @@ time {
   letter-spacing: -0.5px;
 }
 
+form {
+  border-color: whitesmoke !important;
+}
+
+button {
+  color: whitesmoke;
+  border-color: var(--darkMaincolor) !important;
+}
+
+input {
+  color: whitesmoke;
+  border-color: whitesmoke !important;
+}
+
+textarea {
+  color: whitesmoke;
+  border-color: whitesmoke !important;
+}
+
 ::-moz-selection {
   background: blue;
   color: #fff;

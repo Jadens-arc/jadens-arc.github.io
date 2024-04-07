@@ -1,0 +1,67 @@
+
+<style>
+  form {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    padding: 30px;
+  }
+
+  label { 
+    display: flex;
+    margin-bottom: 20px;
+  }
+
+  input {
+    font-family: 'Roboto Mono', monospace;
+    flex: 1 auto;
+    margin-left: 10px;
+    background-color: transparent;
+    outline: none;
+    border: 1px solid black;
+    padding: 2px;
+    padding: 5px;
+  }
+
+  textarea {
+    font-family: 'Roboto Mono', monospace;
+    margin-bottom: 20px;
+    background-color: transparent;
+    outline: none;
+    border: 1px solid black;
+    padding: 5px;
+  }
+
+  button {
+    margin: 10px 0;
+    font-family: 'Roboto Mono', monospace;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    padding: 5px;
+    border-bottom: 3px solid var(--maincolor);
+  }
+
+  button:hover {
+    background-color: red;
+    color: white;
+  }
+
+</style>
+
+<h1>Contact Me</h1>
+  
+<form action="https://formspree.io/f/mbjnonnr" method="POST">
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>Your message:</label>
+  <textarea name="message"></textarea>
+  <div>
+    <button type="submit">Send</button>
+  </div>
+  <small>Powered by Formspree</small>
+</form>
+
+<p>or email me at <a href="mailto:contact@jadenarceneaux.com">contact@jadenarceneaux.com</a></p>
