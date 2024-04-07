@@ -1,6 +1,6 @@
 +++
 title = 'Privacy pt. 2: Actionables'
-date = 2024-04-05T00:49:07-07:00
+date = 2024-04-07T00:49:07-07:00
 draft = false 
 readTime = 8
 +++
