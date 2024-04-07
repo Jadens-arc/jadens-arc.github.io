@@ -21,7 +21,7 @@ form {
 }
 
 button {
-  color: whitesmoke;
+  color: whitesmoke !important;
   border-color: var(--darkMaincolor) !important;
 }
 
