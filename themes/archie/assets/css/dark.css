@@ -25,6 +25,11 @@ button {
   border-color: var(--darkMaincolor) !important;
 }
 
+button:hover {
+  background-color: var(--darkMaincolor) !important;
+  color: #202124 !important;
+}
+
 input {
   color: whitesmoke;
   border-color: whitesmoke !important;
