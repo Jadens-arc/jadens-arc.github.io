@@ -13,7 +13,7 @@ I don't really plan these projects in advance. Most of them start out as small i
 
 - **[Ironmind](https://github.com/jadens-arc/Ironmind)** - 2024
     - Esoteric Language interpreter and code execution visualizer.
-    - Fully written in Rust and available on [crates.io](https://crates.io/crates/ironmind), the [Snap Store](https://crates.io/crates/ironmind), and [homebrew](https://github.com/Jadens-arc/Ironmind?tab=readme-ov-file#homebrew). Currently at 7,000+ downloads :D
+    - Fully written in Rust and available on [crates.io](https://crates.io/crates/ironmind), the [Snap Store](https://snapcraft.io/ironmind), and [homebrew](https://github.com/Jadens-arc/Ironmind?tab=readme-ov-file#homebrew). Currently at 7,000+ downloads :D
     - This started as a joke. It was just me wanting to dip my toes into the world I hardcore memory management and super stable software. I ended up making something that was pretty robust and something I'm proud of.
 - **[Opium.press](https://github.com/jadens-arc/opium.press)** - 2022-23
     - A platform for writers to share ideas and opinions
