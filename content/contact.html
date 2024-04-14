@@ -9,25 +9,25 @@
 
   label { 
     display: flex;
-    margin-bottom: 20px;
     display: flex;
     align-items: center;
   }
 
   input {
     font-family: 'Roboto Mono', monospace;
+    font-size: 15px;
     flex: 1 auto;
-    margin-left: 10px;
     background-color: transparent;
     outline: none;
     border: 1px solid black;
     border-radius: 0px;
-    padding: 2px;
     padding: 5px;
+    margin-bottom: 20px;
   }
 
   textarea {
     font-family: 'Roboto Mono', monospace;
+    font-size: 15px;
     margin-bottom: 20px;
     background-color: transparent;
     outline: none;
@@ -43,7 +43,6 @@
     color: black;
     border: none;
     outline: none;
-    padding: 5px;
     border-bottom: 3px solid var(--maincolor);
   }
 
@@ -55,12 +54,18 @@
 </style>
 
 <h1>Contact Me</h1>
-  
+
+<p>I'll get back to you as soon as I can :D</p>
+
 <form action="https://formspree.io/f/mbjnonnr" method="POST">
   <label>
-    Your email:
-    <input type="email" name="email">
+    Your name:
   </label>
+  <input type="text" name="name">
+  <label>
+    Your email:
+  </label>
+  <input type="email" name="email">
   <label>Your message:</label>
   <textarea name="message" rows="5"></textarea>
   <div>
@@ -68,5 +73,3 @@
   </div>
   <small>Powered by Formspree</small>
 </form>
-
-<p>or email me at <a href="mailto:contact@jadenarceneaux.com">contact@jadenarceneaux.com</a></p>
