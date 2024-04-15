@@ -44,6 +44,10 @@ aliases = ["/link-in-bio"]
   - Canon 15-45mm
   - Also a huge shoutout to Smallrig for making me a custom camera cage
 
+## Buy me a hot vanilla latte with extra sweetener (XMR)
+```
+4A1r8H3UupXZDpZtzhzdoeKLFB9p1WMYU6tfNpMztPMXbPtjRvtuvdc6HMybUr6C9ddH5ZzhRPefoTsmWk3vkpbtE98jGVb
+```
 
 ## Credits
 - Static site generation provided by [Hugo](https://gohugo.io)
