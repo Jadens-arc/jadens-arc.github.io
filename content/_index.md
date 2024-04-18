@@ -19,7 +19,7 @@ infrastructure is managed.
 Outside of that, programming has been my passion for a big part of my
 life. I taught myself my first programming language at 13 and
 instantly became addicted. There hasn't been a single day since where
-I have worked on a project.
+I haven't worked on a project.
 
 Feel free to check out some of my projects or read my blog, and thanks
 for being here at all :)
