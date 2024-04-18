@@ -12,7 +12,7 @@ theme = "archie"
 
 [params]
   og_image = "/icon.png"
-  subtitle = "Software Developer based in Las Vegas, Nevada"
+  subtitle = "Software Developer and occacional writer"
 	description = "Software Developer based in Las Vegas, Nevada"
 	mode = "toggle"
 	mathjax = true # enable MathJax support
@@ -27,6 +27,10 @@ name = "GitHub"
 icon = "github"
 url = "https://github.com/jadens-arc"
 
+[[params.social]]
+name = "Instagram"
+icon = "instagram"
+url = "https://www.instagram.com/jaden.svg/"
 
 [[params.social]]
 name = "LinkedIn"
@@ -51,7 +55,7 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Posts"
+name = "Blog"
 url = "/posts"
 weight = 2
 
@@ -61,8 +65,8 @@ url = "/projects"
 weight = 3
 
 [[menu.main]]
-name = "About"
-url = "/about"
+name = "Misc"
+url = "/misc"
 weight = 4
 
 [[menu.main]]

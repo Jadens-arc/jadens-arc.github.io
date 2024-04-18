@@ -1,43 +1,86 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="{{ .Site.Language.Lang }}">
-	{{ partial "header.html" . }}
-	<body>
-		<!-- Google tag (gtag.js) -->
-		<script async src="https://www.googletagmanager.com/gtag/js?id=G-PZDPYRXWDC"></script>
-		<script>
-			window.dataLayer = window.dataLayer || [];
-			function gtag(){dataLayer.push(arguments);}
-			gtag('js', new Date());
+  {{ partial "header.html" . }}
+  <body>
+    <!-- Google tag (gtag.js) -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-PZDPYRXWDC"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
 
-			gtag('config', 'G-PZDPYRXWDC');
-		</script>
+      gtag("config", "G-PZDPYRXWDC");
+    </script>
 
-		<div class="content">
-			{{ partial "head.html" . }}
-			
-			<main class="list">
-				<div class="site-description">
-					{{- if isset .Site.Params "subtitle" -}}
-					<p>{{ .Site.Params.Subtitle | markdownify }}</p>
-					{{- end -}}
-				</div>
-				{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
-				{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
-				{{ range $paginator.Pages }}
-				<section class="list-item">
-					<h1 class="title"><a href="{{ .RelPermalink }}">{{.Title}}</a></h1>
-					<time>{{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</time>
-					{{- if .Params.readTime -}}
-						<span> | {{ .Params.readTime }} Minute{{- if eq .Params.readTime 1 -}}{{- else -}}s{{- end -}}</span>
-					{{- end -}}
-					<br>{{ template "partials/pagedescription.html" . }}
-					<a class="readmore" href="{{ .RelPermalink }}">Read more ⟶</a>
-				</section>
-				{{ end }}
-				{{ template "partials/paginator.html" . }}
-			</main>
-			{{ partial "footer.html" . }}
-		</div>
-		
-	</body>
+    <div class="content">
+      {{ partial "head.html" . }}
+
+      <main class="list">
+        <div class="site-description">
+          {{- if isset .Site.Params "subtitle" -}} {{/*
+          <p>{{ .Site.Params.Subtitle | markdownify }}</p>
+          */}} {{- end -}}
+        </div>
+        <p>
+          Software developer, occasional writer, and dedicated Neovim user based
+          in beautiful Las Vegas, Nevada ☀️🌵
+        </p>
+
+        <p>
+          I've been working at ISP.Net/LV.Net for over 2 years now as a Full
+          Stack Developer. I primarily work in PHP with the Symfony framework.
+          Working at an internet service provider has given me the unique
+          opportunity to not only grow as a developer building enterprise
+          software, but to also learn about how some of the most critical
+          infrastructure is managed.
+        </p>
+        <p>
+          Outside of that programming as been my passion for a big part of my
+          life. I taught myself my first programming language at 13 and
+          instantly became addicted. There hasn't been a single day since where
+          I have worked on something.
+        </p>
+        <p>
+          Feel free to check out some of my projects or read my blog and thanks
+          for being here at all :)
+        </p>
+        <p>
+          Don't hesitate to reach me @
+          <a href="mailto:contact@jadenarceneaux.com"
+            >contact@jadenarceneaux.com</a
+          >
+          and feel free to encrypt your emails using my public key listed below
+        </p>
+
+        <h2>Links</h2>
+        <ul>
+          <li><a href="/Resume.pdf">Resume</a></li>
+          <li>
+            <a href="https://www.instagram.com/jaden.svg/">Instagram</a>
+          </li>
+          <li>
+            <a href="https://www.linkedin.com/in/jaden-arceneaux/">LinkedIn</a>
+          </li>
+          <li><a href="https://github.com/jadens-arc">GitHub</a></li>
+          <li>
+            <a href="/AC34D646B6DACBC1804A8EB0E349190839CE77CD.asc"
+              >PGP Public Key</a
+            >
+            <ul>
+              <li>
+                You can verify it @
+                <a href="https://keys.openpgp.org/">keys.openpgp.org</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </main>
+      {{ partial "footer.html" . }}
+    </div>
+  </body>
 </html>

@@ -2,16 +2,19 @@
 {{ if isset .Data "Term" }}
 <h1>Entries tagged - "{{ .Data.Term }}"</h1>
 {{ else }}
-<h1 class="page-title">All Posts</h1>
 {{ end }}
-
-<ul class="posts">
-	{{- range .Data.Pages -}}
-		{{- if (not (in (.Site.Params.excludedTypes | default (slice "page")) .Type)) -}}
-		<li class="post">
-			<a href="{{ .RelPermalink }}">{{.Title}}</a> <span class="meta">{{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</span>
-		</li>
-		{{- end -}}
-	{{- end -}}
-</ul>
+{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
+{{ range $paginator.Pages }}
+<section class="list-item">
+  <h1 class="title"><a href="{{ .RelPermalink }}">{{.Title}}</a></h1>
+  <time>{{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</time>
+  {{- if .Params.readTime -}}
+    <span> | {{ .Params.readTime }} Minute{{- if eq .Params.readTime 1 -}}{{- else -}}s{{- end -}}</span>
+  {{- end -}}
+  <br>{{ template "partials/pagedescription.html" . }}
+  <a class="readmore" href="{{ .RelPermalink }}">Read more ⟶</a>
+</section>
+{{ end }}
+{{ template "partials/paginator.html" . }}
 {{ end }}

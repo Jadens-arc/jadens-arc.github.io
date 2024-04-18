@@ -1,41 +1,8 @@
 +++
-title = 'About Me'
+title = 'Misc.'
 draft = false
 aliases = ["/link-in-bio"]
 +++
-## Overview
-- Software Developer based in beautiful Las Vegas, Nevada ☀️🌵
-- Full Stack developer @ ISP.Net
-- Reach me @ contact@jadenarceneaux.com
-  - Feel free to encrypt your emails using the public key provided below. [Learn more](https://www.openpgp.org/)
-- Dedicated Neovim User
-
-## Links
-- [Resume](/Resume.pdf)
-- [LinkedIn](https://www.linkedin.com/in/jaden-arceneaux/)
-- [GitHub](https://github.com/jadens-arc)
-- [PGP Public Key](/AC34D646B6DACBC1804A8EB0E349190839CE77CD.asc)
-  - You can verify it @ [keys.openpgp.org](https://keys.openpgp.org/)
-
-## Skills
-- 🐘 PHP 
-  - Symfony framework
-- 🐍 Python
-  - Django & Flask
-- 🦀 Rust
-  - Rocket
-- MySQL
-- Linux System Administration
-- C
-- HTML & CSS
-  - Bootstrap
-- Javascript
-  - Node.js
-  - Express.js
-  - Electron.js
-
-
-## Other random stuff
 - *Scorpio* sun, Gemini rising, and Cancer moon
 - My favorite languages are Python, Rust, and C
 - Also, I do photography as a hobby
@@ -44,10 +11,6 @@ aliases = ["/link-in-bio"]
   - Canon 15-45mm
   - Also a huge shoutout to Smallrig for making me a custom camera cage
 
-## Buy me a hot vanilla latte with extra sweetener (XMR)
-```
-4A1r8H3UupXZDpZtzhzdoeKLFB9p1WMYU6tfNpMztPMXbPtjRvtuvdc6HMybUr6C9ddH5ZzhRPefoTsmWk3vkpbtE98jGVb
-```
 
 ## Credits
 - Static site generation provided by [Hugo](https://gohugo.io)
@@ -57,7 +20,12 @@ aliases = ["/link-in-bio"]
 
 Much love ❤️
 
+## Buy me a hot vanilla latte with extra sweetener (XMR)
+```
+4A1r8H3UupXZDpZtzhzdoeKLFB9p1WMYU6tfNpMztPMXbPtjRvtuvdc6HMybUr6C9ddH5ZzhRPefoTsmWk3vkpbtE98jGVb
+```
 
+## My PGP Public Key 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
