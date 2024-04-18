@@ -28,8 +28,6 @@ draft = false
   - Dual Boot
     - Windows 10 (for gaming)
     - Arch Linux (for everything else)
-      - i3
-      - Polybar
 
 ## Credits
 
