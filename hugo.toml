@@ -2,7 +2,7 @@ baseURL = 'https://jadens-arc.github.io/'
 languageCode = 'en-us'
 title = 'Jaden Arceneaux'
 copyright = "© Jaden Arceneaux"
-paginate=5 # articles per page
+paginate = 5                              # articles per page
 # Code Highlight
 pygmentsstyle = "dracula"
 pygmentscodefences = true
@@ -11,14 +11,14 @@ pygmentscodefencesguesssyntax = true
 theme = "archie"
 
 [params]
-  og_image = "/icon.png"
-  subtitle = "Software Developer and occacional writer"
-	description = "Software Developer based in Las Vegas, Nevada"
-	mode = "toggle"
-	mathjax = true # enable MathJax support
-	katex = true # enable KaTeX support
-  customcss = ["css/custom.css"]
-	enableRobotsTXT = true
+og_image = "/icon.png"
+subtitle = "Software Developer and occacional writer"
+description = "Software Developer based in Las Vegas, Nevada"
+mode = "toggle"
+mathjax = true                                                # enable MathJax support
+katex = true                                                  # enable KaTeX support
+customcss = ["css/custom.css"]
+enableRobotsTXT = true
 
 # Social Tags
 
@@ -55,21 +55,21 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Blog"
-url = "/posts"
+name = "Projects"
+url = "/projects"
 weight = 2
 
 [[menu.main]]
-name = "Projects"
-url = "/projects"
+name = "Blog"
+url = "/posts"
 weight = 3
-
-[[menu.main]]
-name = "Misc"
-url = "/misc"
-weight = 4
 
 [[menu.main]]
 name = "Contact"
 url = "/contact"
+weight = 4
+
+[[menu.main]]
+name = "Misc"
+url = "/misc"
 weight = 5
