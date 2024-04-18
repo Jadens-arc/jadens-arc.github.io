@@ -11,6 +11,26 @@ draft = false
   - Canon 15-45mm
   - Also a huge shoutout to Smallrig for making me a custom camera cage
 
+## My Setup
+
+- **Laptop**
+  - 2020 M1 Macbook Air
+  - 512GB of storage
+  - 16GB of RAM
+- **Desktop**
+  - ASRock B550-HDV
+  - AMD Ryzen 3600
+  - XFX Radeon RX580
+  - 500GB SSD
+  - 2TB Hard Drive
+  - 16GB DDR4 RAM
+  - Cooler Master Q500L case
+  - Dual Boot
+    - Windows 10 (for gaming)
+    - Arch Linux (for everything else)
+      - i3
+      - Polybar
+
 ## Credits
 
 - Static site generation provided by [Hugo](https://gohugo.io)
