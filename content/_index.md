@@ -32,5 +32,5 @@ Don't hesitate to reach me @ contact@jadenarceneaux.com and feel free to encrypt
 - [Instagram](https://www.instagram.com/jaden.svg/)
 - [LinkedIn](https://www.linkedin.com/in/jaden-arceneaux/)
 - [GitHub](https://github.com/jadens-arc)
-- [Public Key](/AC34D646B6DACBC1804A8EB0E349190839CE77CD.asc)
+- [Public Key](/misc#my-pgp-public-key)
   - You can verify it at [keys.openpgp.org](https://keys.openpgp.org/)
