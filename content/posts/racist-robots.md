@@ -2,6 +2,7 @@
 title = 'Racist Robots'
 date = 2024-04-20T12:47:23-07:00
 draft = false
+readTime = 4
 +++
 
 First of all, I feel like as a baseline we have to acknowledge that racism is, in fact, a problem. It's not just people being intentionally mean to each other, it's unconscious biases slowly leaking into our outward expressions. And it's the accumulation of those expressions within the systems that drive society.
