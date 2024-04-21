@@ -4,7 +4,7 @@ draft = false
 +++
 
 {{< img
-url="/black-logo.svg"
+url="/black-logo-with-stroke.svg"
 description="my logo"
 align="center"
 size="25">}}
