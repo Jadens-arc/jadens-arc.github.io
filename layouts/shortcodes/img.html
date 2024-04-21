@@ -1,6 +1,6 @@
 <div style='display: flex; justify-content: {{ .Get "align" }};'>
   <img
-    style="width: 50%"
+    style='width: {{ .Get "size" }}%;'
     src='{{ .Get "url" }}'
     alt='{{ .Get "description" }}'
   />
