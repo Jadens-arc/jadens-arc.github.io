@@ -1,7 +1,7 @@
 +++
 title = "Homepage"
 date = 2023-01-01
-aliases = ["/about"]
+aliases = ["/about", "/link-in-bio"]
 +++
 
 Software developer, occasional writer, and dedicated Neovim user based
