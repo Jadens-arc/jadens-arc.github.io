@@ -7,7 +7,7 @@ readTime = 7
 
 First of all, I feel like as a baseline we have to acknowledge that racism is, in fact, a problem. It's not just people being intentionally mean to each other, it's unconscious biases slowly leaking into our outward expressions. And it's the accumulation of those expressions within the systems that drive society.
 
-Now that that's out of the way, we can move to the meat of this discussion. And that's what this is, it's a discussion I'd like to start based on some observations I've made. I don't have a concrete solution to this and I don't think there ever will be one. It's so subjective and such a slippery slope, but it is an absolute necessity for engineers and the people who rely on this technology to take into account.
+This is just a discussion I'd like to start based on some observations I've made. I don't have a concrete solution to any of them and I don't think there ever will be one. It's so subjective and such a slippery slope, but it is an absolute necessity for engineers and the people who rely on this technology to take into account. Now that that's out of the way, we can move to the meat of this discussion.
 
 ## Artificial Intelligence
 
@@ -64,3 +64,5 @@ I think AI should see the world for what it is. Sure, it is nice to see more div
 ## Other random stuff
 
 This is also partially the reason why navigation apps don't have an option to route you around dangerous neighborhoods. Think about it, with all the crime rate statistics published every year, such a feature would be trivial for Apple or Google to implement in their respective navigation apps. But the consequences for doing so have far-reaching effects that could turn already under-served areas into complete ghost towns. The responsibility (and potential blowback) that comes from something like that is enough to scare off even the biggest companies in the world.
+
+Shout out Chris for proof reading and giving me suggestions. Check out his [website](https://chrisrobles.dev/).
