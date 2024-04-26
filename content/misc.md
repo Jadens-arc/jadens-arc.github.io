@@ -19,7 +19,7 @@ draft = false
   - 16GB of RAM
 - **Desktop**
   - ASRock B550-HDV
-  - AMD Ryzen 3600
+  - AMD Ryzen 5 3600
   - XFX Radeon RX580
   - 500GB SSD
   - 2TB Hard Drive
