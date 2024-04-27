@@ -63,6 +63,6 @@ I think AI should see the world for what it is. Sure, it is nice to see more div
 
 ## Other random stuff
 
-This is also partially the reason why navigation apps don't have an option to route you around dangerous neighborhoods. Think about it, with all the crime rate statistics published every year, such a feature would be trivial for Apple or Google to implement in their respective navigation apps. But the consequences for doing so have far-reaching effects that could turn already under-served areas into complete ghost towns. The responsibility (and potential blowback) that comes from something like that is enough to scare off even the biggest companies in the world.
+Ethical questions like this are also the reason why navigation apps don't have an option to route you around dangerous neighborhoods. Think about it, with all the crime rate statistics published every year, such a feature would be trivial for Apple or Google to implement in their respective navigation apps. But the consequences for doing so have far-reaching effects that could turn already under-served areas into complete ghost towns. The responsibility (and potential blowback) that comes from something like that is enough to scare off even the biggest companies in the world.
 
 Shout out Chris for proof reading and giving me suggestions. Check out his [website](https://chrisrobles.dev/).
