@@ -7,6 +7,15 @@ aliases = ["/about", "/link-in-bio"]
 Software developer, occasional writer, and dedicated Neovim user based
 in beautiful Las Vegas, Nevada ☀️🌵
 
+## Links
+
+- [Resume](/Resume.pdf)
+- [Instagram](https://www.instagram.com/jaden.svg/)
+- [LinkedIn](https://www.linkedin.com/in/jaden-arceneaux/)
+- [GitHub](https://github.com/jadens-arc)
+- [Public Key](/misc#my-pgp-public-key--downloadac34d646b6dacbc1804a8eb0e349190839ce77cdasc)
+  - You can verify it at [keys.openpgp.org](https://keys.openpgp.org/)
+
 ## Overview
 
 I've been working at ISP.Net/LV.Net for over two years now as a Full
@@ -25,12 +34,3 @@ Feel free to check out some of my projects or read my blog, and thanks
 for being here at all :)
 
 Don't hesitate to reach me @ contact@jadenarceneaux.com and feel free to encrypt your emails using my public key listed below
-
-## Links
-
-- [Resume](/Resume.pdf)
-- [Instagram](https://www.instagram.com/jaden.svg/)
-- [LinkedIn](https://www.linkedin.com/in/jaden-arceneaux/)
-- [GitHub](https://github.com/jadens-arc)
-- [Public Key](/misc#my-pgp-public-key--downloadac34d646b6dacbc1804a8eb0e349190839ce77cdasc)
-  - You can verify it at [keys.openpgp.org](https://keys.openpgp.org/)
