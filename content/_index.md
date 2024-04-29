@@ -9,9 +9,10 @@ in beautiful Las Vegas, Nevada ☀️🌵
 
 ## Links
 
-- [Resume](/Resume.pdf)
+- contact@jadenarceneaux.com
 - [Instagram](https://www.instagram.com/jaden.svg/)
 - [LinkedIn](https://www.linkedin.com/in/jaden-arceneaux/)
+- [Resume](/Resume.pdf)
 - [GitHub](https://github.com/jadens-arc)
 - [Public Key](/misc#my-pgp-public-key--downloadac34d646b6dacbc1804a8eb0e349190839ce77cdasc)
   - You can verify it at [keys.openpgp.org](https://keys.openpgp.org/)
@@ -33,4 +34,4 @@ I haven't worked on a project.
 Feel free to check out some of my projects or read my blog, and thanks
 for being here at all :)
 
-Don't hesitate to reach me @ contact@jadenarceneaux.com and feel free to encrypt your emails using my public key listed below
+Don't hesitate to reach me @ contact@jadenarceneaux.com and feel free to encrypt your emails using my public key listed above
