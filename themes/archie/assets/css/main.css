@@ -68,6 +68,7 @@ ul {
   padding-left: 2ch;
 }
 ul li {
+  margin-bottom: 5px;
   text-indent: -2ch;
 }
 ul > li::before {
