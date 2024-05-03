@@ -45,7 +45,7 @@ In 2023, Google launched its competitor to OpenAI's ChatGPT, Google Gemini. Quic
 url="https://i.imgur.com/Bl1rE9l.jpg"
 description="Google Gemini when asked to generate an image of the founding fathers"
 align="center"
-size="50" >}}
+size="75" >}}
 
 It came from a place of good intentions. The thought process as described by a Google executive was to avoid "the traps" of traditional AI. As mentioned earlier, illustrating and acting out user biases and preferences is a characteristic of AI. For example, if you ask a standard AI model to generate a picture of a CEO, the person in the photo will typically be a Caucasian male. Having more diversity in that scenario might be attractive, but when you ask it to generate a picture of a 1940's German soldier, diversity might not be the expected output.
 
