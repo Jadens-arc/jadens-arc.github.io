@@ -32,7 +32,7 @@ My focus throughout my professional life has been enterprise software. It has a 
 
 > Many of these are not open-sourced and certain details are confidential
 
-- **ISP.Net** - Primarily used PHP with the Symfony framework
+- **[ISP.Net](https://isp.net)** - Primarily used PHP with the Symfony framework
   - Lead Management System
     - Help track and nurture potential clients
   - HR Information System
@@ -44,7 +44,7 @@ My focus throughout my professional life has been enterprise software. It has a 
     - Monitored employee and visitor movement throughout multiple data centers
     - Integrated with the timecard system to verify clock-in/clock-out times
   - Refactored and rewrote thousands of lines of legacy code
-- **Juniel Enterprises**
+- **[Juniel Enterprises](https://junielenterprises.com)**
   - Designed landing page
   - Provided consultation for billing systems
     - With consideration for scalability, integration capabilities, and cost-effectiveness
