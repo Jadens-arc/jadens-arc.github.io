@@ -38,6 +38,11 @@ icon = "linkedin"
 url = "https://www.linkedin.com/in/jaden-arceneaux/"
 
 [[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://www.twitter.com/jadenarceneaux/"
+
+[[params.social]]
 name = "RSS"
 icon = "rss"
 url = "/index.xml"
