@@ -19,7 +19,7 @@ in beautiful Las Vegas, Nevada🌵
 
 ## Overview
 
-I've been working at ISP.Net/LV.Net for over two years now as a Full
+I've been working at ISP.Net for over two years now as a Full
 Stack Developer. I primarily work in PHP with the Symfony framework.
 Working at an internet service provider has given me the unique
 opportunity to not only grow as a developer building enterprise
