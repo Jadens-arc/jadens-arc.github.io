@@ -2,6 +2,7 @@
 title = 'My Favorite Python Libraries'
 date = 2024-05-08T07:06:38-07:00
 draft = false
+readTime=3
 +++
 
 ## TL;DR
