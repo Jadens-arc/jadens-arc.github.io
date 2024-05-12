@@ -9,7 +9,7 @@ Call me a follower. I'm trying out the Zed Editor for the first time, and these 
 
 ## Simplicity
 
-Out of the box, Zed feels quite similar to Sublime Text. Very stripped down, all business, no fluff. Don't let that fool you; it is plenty powerful. The more you use it, the more its functionality seems to present itself to you. Sure, you can use it like a basic text editor with syntax highlight and contextual code completions. But eventually, you'll learn what makes Zed special.
+Out of the box, Zed feels quite similar to Sublime Text. Very stripped down, all business, no fluff. Don't let that fool you; it is plenty powerful. The more you use it, the more its functionality seems to present itself to you. Sure, you can use it like a basic text editor with syntax highlights and contextual code completions. But eventually, you'll learn what makes Zed special.
 
 ## AI
 
@@ -21,7 +21,7 @@ I have yet to try the GitHub Copilot integration because I don't want to spend $
 
 ## Speed
 
-It just feels fast. Load times are extremely fast. Going from launching the app to being in a project writing code is near instant, even for larger projects. When typing and navigating through the UI, everything is very responsive. Something that developers often don't think about is the amount of latency we experience from the point of hitting a key to it actually being on screen. Most of this is caused by all kinds of language servers, syntax highlighters, and linters running while we're typing. Typing in Zed feels like cutting with an expertly sharpened knife; it's clean, it's satisfying, and it makes quick work of anything it encounters.
+It just feels fast. Load times are extremely fast. Going from launching the app to being in a project writing code is nearly instant, even for larger projects. When typing and navigating through the UI, everything is very responsive. Something that developers often don't think about is the amount of latency we experience from the point of hitting a key to it actually being on screen. Most of this is caused by all kinds of language servers, syntax highlighters, and linters running while we're typing. Typing in Zed feels like cutting with an expertly sharpened knife; it's clean, it's satisfying, and it makes quick work of anything it encounters.
 
 Vim commands are slow though. They run in Zed's command palette which has a noticeable delay.
 
@@ -31,7 +31,7 @@ In all honesty, if Zed didn't support Vim key binds, I wouldn't be using it. I c
 
 I do have some gripes with their implementation of Vim, though. First of all, it does not support markers, which is a shame and a big hit to productivity. It also has a strange behavior where if the inline autocomplete suggestions are displayed, the home row navigation stops working. The only way to move to a different character is to use the arrow keys or hit escape (or control + c) and then use h, j, k, or l as you normally would.
 
-I've also experienced inconsistencies with the page up and page down features in Vim as well as with key bind multipliers (E.X. 10j to go down 10 lines).
+I've also experienced inconsistencies with the page-up and page-down features in Vim as well as with key bind multipliers (e.g. 10j to go down 10 lines).
 
 I also have this random bug where my zero key will stop working. Everything else in the editor works fine except for that one key. The only way I've been able to resolve this is by turning Vim mode off and then turning it back on.
 
@@ -49,4 +49,4 @@ Things are only looking more bleak for the future. It's speculated that Zed's co
 
 ## Overall
 
-Despite all its problems, I still love this app. The speed and simplicity are addicting, and combining that with Vim key binds just makes me never want to leave this editor. I find myself thinking about it whenever I use any other editor. Okay, I'm done glazing. It's not perfect but I see potential. With it being written in Rust, what's there not to love. Still, Zed has a long way to go before it's a serious competitor to Visual Studio Code, MacOS exclusivity being the least of their worries, but I see the vision and I'm here for it.
+Despite all its problems, I still love this app. The speed and simplicity are addicting, and combining that with Vim key binds just makes me never want to leave this editor. I find myself thinking about it whenever I use any other editor. Okay, I'm done glazing. It's not perfect but I see potential. With it being written in Rust, what's there not to love? Still, Zed has a long way to go before it's a serious competitor to Visual Studio Code, MacOS exclusivity being the least of their worries, but I see the vision and I'm here for it.
