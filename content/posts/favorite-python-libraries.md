@@ -13,7 +13,7 @@ readTime=3
 
 ## Why
 
-### Obligitory Yap Session
+### Obligatory Yap Session
 
 There's one unifying aspect to each of these libraries: conciseness. Throughout my time writing Python, I've learned that what matters isn't just ease of use. It's about getting straight to the heart of a problem and directly crafting a solution. Good Python code is the direct manifestation of an idea, not a technical document. It might not be the best tool for teaching the low-level aspects of computer science or crafting intricate, efficient systems, but it is excellent for quickly bringing an idea to life and iterating on it. Python is the Swiss Army knife of computing, and these are some useful accessories to keep in your back pocket.
 
@@ -64,9 +64,9 @@ press("Enter")
 
 ### Flask
 
-Flask is the simplest way to create a web server. If you're familiar with full-stack development in Python, you might have heard of Django. Django is great; it's lightweight and packs a punch, including built-in user authentication, database management, etc. The reason I'm recommending Flask over Django isn't that one is necessarily better than the other—they're both great. From my experience, Django has far more boilerplate code than Flask and has a much more defined project structure. Flask is great because it allows you to create a simple API for a project without restructuring it. Django is great when your whole project is centered around full-stack web development, and you want a myriad of features out of the box. Flask is great when you just need a web sever to have a small API or a single page webapp.
+Flask is the simplest way to create a web server. If you're familiar with full-stack development in Python, you might have heard of Django. Django is great; it's lightweight and packs a punch, including built-in user authentication, database management, etc. The reason I'm recommending Flask over Django isn't that one is necessarily better than the other—they're both great. From my experience, Django has far more boilerplate code than Flask and has a much more defined project structure. Flask is great because it allows you to create a simple API for a project without restructuring it. Django is great when your whole project is centered around full-stack web development, and you want a myriad of features out of the box. Flask is great when you just need a web server to have a small API or a single-page web app.
 
-Here's a very simple API end point to take in a name encoded in json and return "Hi" + name. Although it might be a simple program, starting a web server, declaring a route, and handling json encoding and decoding in only 11 lines is impressive and great for making MVP's for smaller projects.
+Here's a very simple API endpoint to take in a name encoded in JSON and return "Hi" + name. Although it might be a simple program, starting a web server, declaring a route, and handling JSON encoding and decoding in only 11 lines is impressive and great for making MVPs for smaller projects.
 
 ```python
 from flask import Flask, request, jsonify
