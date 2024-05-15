@@ -17,7 +17,7 @@ Specifically, I want to talk about AI. It's important to understand the basics o
 
 Artificial intelligence gets its name from its ability to learn and adapt like a human. Most people are pretty familiar with the idea that computers follow a strict set of instructions known as code. It's the job of programmers to tell computers exactly what to do in every situation they could possibly face. This severely limits the application of technology in the world. It forces us to interact with technology using premeditated, stiff interfaces.
 
-AI is useful because rather than telling the computer exactly what to do, instead we construct a system that can learn and adapt. Then we let it figure out what to do on its own. AI is a subset of a much larger study of computer science known as machine learning.
+AI is useful because rather than telling the computer exactly what to do, instead, we construct a system that can learn and adapt. Then we let it figure out what to do on its own. AI is a subset of a much larger study of computer science known as machine learning.
 
 This system capable of learning is known as a neural network. A web of millions of nodes, weights, and biases so complex that it is best treated as a [black box](https://en.wikipedia.org/wiki/Black_box). Forward propagation is the act of sending data through the neural network to get an output. Then, a loss, the degree to which the machine was incorrect, is calculated. Back propagation is the act of distributing the total loss back to the network so each node can minimize its loss. This is what it means to train a neural network. This process is arduous and very resource-intensive.
 
@@ -47,7 +47,7 @@ description="Google Gemini when asked to generate an image of the founding fathe
 align="center"
 size="75" >}}
 
-It came from a place of good intentions. The thought process as described by a Google executive was to avoid "the traps" of traditional AI. As mentioned earlier, illustrating and acting out user biases and preferences is a characteristic of AI. For example, if you ask a standard AI model to generate a picture of a CEO, the person in the photo will typically be a Caucasian male. Having more diversity in that scenario might be attractive, but when you ask it to generate a picture of a 1940's German soldier, diversity might not be the expected output.
+It came from a place of good intentions. The thought process as described by a Google executive was to avoid "the traps" of traditional AI. As mentioned earlier, illustrating and acting out user biases and preferences is a characteristic of AI. For example, if you ask a standard AI model to generate a picture of a CEO, the person in the photo will typically be a Caucasian male. Having more diversity in that scenario might be attractive, but when you ask it to generate a picture of a 1940s German soldier, diversity might not be the expected output.
 
 Trying to counteract biased training data introduces a whole other slippery slope of when to correct and by how much.
 
@@ -65,4 +65,14 @@ I think AI should see the world for what it is. Sure, it is nice to see more div
 
 Ethical questions like this are also the reason why navigation apps don't have an option to route you around dangerous neighborhoods. Think about it, with all the crime rate statistics published every year, such a feature would be trivial for Apple or Google to implement in their respective navigation apps. But the consequences for doing so have far-reaching effects that could turn already under-served areas into complete ghost towns. The responsibility (and potential blowback) that comes from something like that is enough to scare off even the biggest companies in the world.
 
-Shout out Chris for proof reading and giving me suggestions. Check out his [website](https://chrisrobles.dev/).
+Shout out Chris for proofreading and giving me suggestions. Check out his [website](https://chrisrobles.dev/).
+
+## Amendments
+**May 14th, 2024.**
+
+Despite the time that has passed, this post has managed to stay in the back of my mind. There are a few things I want to clarify and add to and if you have any suggestions please email me at contact@jadenarceneaux.com.
+
+Racism is my symbol for a much larger ethical discussion about AI. There are much larger discussions to be had about the political, moral, and socioeconomic issues with AI. I picked racism because it's one of the most easily observable forms of bias in AI and it's the issue that I have the most personal experience with. All of these other issues are equally worth looking into and hearing the perspectives of people who have much more experience with them than I do.
+
+This is a discussion that extends further than today's technology. This is a conversation that really should have been started during the mainstream adoption of search engines like Google and Yahoo. But it is sadly overlooked. There is something to be said about the fact that because these tools are run by businesses they are subsequently controlled by the free market. But how free is the market when access and presentation of information are skewed?
+
