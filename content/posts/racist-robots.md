@@ -59,7 +59,7 @@ There's the even bigger question of who should answer that question. Who do we t
 
 ## My opinion
 
-I think AI should see the world for what it is. Sure, it is nice to see more diversity in the results for respected professions, but the way to achieve that isn't by putting a band-aid over the truth. In a tool that is touted as a research magic wand, the goal should always be accuracy. The simple truth is that if we want minorities to be better represented in our search results, we need to do more to promote the representation of minorities in our society.
+I think AI should see the world for what it is. Sure, it is nice to see more diversity in the results for respected professions, but the way to achieve that isn't by putting a band-aid over the truth. In a tool that is touted as a research magic wand, the goal should always be accuracy. The simple truth is that if we want minorities to be better represented in our search results, we need to do more to promote the representation of minorities in our society. This doesn't just mean pushing minorities to live up to standards set in place by "respectability politics", but instead challenging our standards and preconceived notions about minorities.
 
 ## Other random stuff
 
