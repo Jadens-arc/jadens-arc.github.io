@@ -43,5 +43,5 @@ I really enjoyed using this phone for those couple of days. It was so fast with 
 
 In all seriousness, while it might not be my daily driver it has made its way into my EDC (it's in my backpack 24/7). Sometimes it's nice to disconnect from everything. I can't go completely without a phone but it's relieving to leave behind TikTok, Instagram, and everything else that feels the need to notify me on a daily basis. That's compounded by the fact that I feel like I'm able to go through life without being watched. I love it. While it might not be for everyone I'd recommend anyone with a passion for tech and a spare phone to try to degoogle it. Phones that respect our privacy should be the rule, not the exception.
 
-As Ken Carson once said, "Anybody can be Batman, you just gotta get the gadgets".
+As [Ken Carson once said](https://www.youtube.com/watch?v=GDz0Y6-32sQ), "Anybody can be Batman, you just gotta get the gadgets".
 
