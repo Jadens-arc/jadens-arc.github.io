@@ -22,7 +22,7 @@ This was my first time using the ADB command line program and holy shit that thi
 
 I honestly don’t remember exactly what I did to install it and I can’t be bothered to look it up so here are my loose instructions derived from what I remember from midnight on Thursday. 
 
-There were so many settings I had to change on the phone. first getting into developer mode, then disabling OEM protection, and enabling ADB. 
+There were so many settings I had to change on the phone. First getting into developer mode, then disabling OEM protection, and enabling ADB. 
 
 Then there was getting the phone into fastboot mode. I don’t remember exactly what I did but I do remember turning the phone off and on like 50 million times and having to perform the Konami code on the side buttons. 
 
