@@ -24,7 +24,7 @@ I honestly don’t remember exactly what I did to install it and I can’t be bo
 
 There were so many settings I had to change on the phone. First getting into developer mode, then disabling OEM protection, and enabling ADB. 
 
-Then there was getting the phone into fastboot mode. I don’t remember exactly what I did but I do remember turning the phone off and on like 50 million times and having to perform the Konami code on the side buttons. 
+Then there was getting the phone into fastboot mode. I don’t remember exactly what I did, but I do remember turning the phone off and on like 50 million times and having to perform the Konami code on the side buttons. 
 
 Finally after hours of trying I managed to get the phone in a state where I could write an image to it. I tried following the instructions on LineageOS’ website but the partition that they told me to install was missing. So I ended up bouncing around between YouTube tutorials. 
 
