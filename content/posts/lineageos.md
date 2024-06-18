@@ -12,12 +12,12 @@ Recently, I embarked on a mini project. It started with my boss giving me her ol
 Right off the bat, the thing that nearly drove me insane was the fact that I couldn’t uninstall Netflix from the phone. There was so much junk and bloatware on the thing. But besides that, it felt very smooth. I didn’t bother with launchers or app icons but I didn’t have to, it looked great and felt great out of the box. It was my first time using a phone with a refresh rate over 60hz and that felt amazing. Then the very next day I installed Lineage OS. 
 
 ## What is LineageOS
-Most versions of Android come with some level of tracking and telemetry. Most notably from Google themselves but there’s usually some spyware from the manufacturer of the Android flavor itself (on a Galaxy you’re tracked by Google and Samsung for example). “Degoogling” is the process of removing the stock installation of Android and installing a more privacy-respecting distribution. Some notable distros are GraphineOS, CalyxOS, and our bestie lineageOS. 
+Most versions of Android come with some level of tracking and telemetry. Most notably from Google themselves but there’s usually some spyware from the manufacturer of the Android flavor itself (on a Galaxy you’re tracked by Google and Samsung for example). “Degoogling” is the process of removing the stock installation of Android and installing a more privacy-respecting distribution. Some notable distros are GraphineOS, CalyxOS, and our bestie LineageOS. 
 
 ## Installing The OS
 If you know me, you know I love Linux. To be so for real, I thought this would be exactly the same as installing a Linux distro; especially given the fact that Android is based on Linux. Boy was I wrong.
 
-## ADB
+## ADB and Side-loading
 This was my first time using the ADB command line program and holy shit that thing is cool. Being able to execute commands on a phone from my MacBook is the coolest thing of all time. That’s about where my enthusiasm ended. 
 
 I honestly don’t remember exactly what I did to install it and I can’t be bothered to look it up so here are my loose instructions derived from what I remember from midnight on Thursday. 
