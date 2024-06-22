@@ -2,6 +2,7 @@
 title = 'My Experience With LineageOS'
 date = 2024-06-16T18:18:34-07:00
 draft = false
+readTime=5
 +++
 
 Don’t take this post seriously, this is just me being goofy and having fun. 
