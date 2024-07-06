@@ -8,8 +8,6 @@ pygmentsstyle = "dracula"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-theme = "archie"
-
 [params]
 og_image = "/icon.png"
 subtitle = "Software Developer and occacional writer"
