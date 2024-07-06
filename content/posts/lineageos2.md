@@ -8,7 +8,7 @@ readTime=1
 Figured I'd make a follow-up to my original post and go into more detail about my experience using LineageOS.
 
 {{< img
-url="https://i.imgur.com/3F1x90L.png"
+url="https://s3.us-west-1.amazonaws.com/jadenarceneaux.com/lineageosphone.png"
 description="Me in middle school"
 align="center"
 size="75" >}}
