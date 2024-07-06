@@ -1,10 +1,10 @@
 +++
 title = 'My Journey So Far'
-date = 2024-04-26T14:31:13-07:00
+date = 2024-07-01T10:31:13-07:00
 draft = true
 +++
 
-In my relatively short time on Earth and my even shorter time in my career, I've had a pretty wild journey. Hopefully, someone finds this useful or inspiring in some way. More than anything, I hope this gives future developers some perspective.
+In my relatively short time on Earth and even shorter time in my career, I've had a pretty wild journey. Hopefully, someone finds this useful or inspiring in some way. More than anything, I hope this gives future developers some perspective.
 
 **What I wanted to be growing up**
 
@@ -13,7 +13,7 @@ In my relatively short time on Earth and my even shorter time in my career, I've
 - Cinematographer (For like 2 months in middle school)
 - Programmer (13 - ∞)
 
-I think I've always had a fascination with understanding how things work. My favorite show as a kid was How it's Made. Giant garbage trucks with their gargantuan robot arm amazed me. The unknown expanse that is the brain made me so curious. Cameras aren't that complicated, but they are strange and their metrics and inner workings are wonderfully unintuitive, especially if you're used more to traditional technology.
+I think I've always had a fascination with understanding how things work. My favorite show as a kid was How It's Made. Giant garbage trucks with their gargantuan robot arm amazed me. The unknown expanse that is the brain made me so curious. Cameras aren't that complicated, but they are strange and their metrics and inner workings are wonderfully unintuitive, especially if you're used more to traditional technology.
 
 Computer code was all those things to me and more. Most importantly, it was accessible; it was something I could just do. You can't drive a garbage truck without a license and you can't cut a person's head open without a few licenses, but you can make an app anytime, anywhere, regardless of who you are. So, I just jumped straight in.
 
@@ -27,9 +27,9 @@ size="75" >}}
 
 > Me in middle school lmao
 
-When I was in 6th grade, I got my first taste of programming using an app called Hopscotch. It was a simple drag-and-drop code blocks app for iPads (I didn't have a computer at this time). I spent so much of my free time making games and random projects. By the time I was in 8th grade (13 years old), I decided that programming seemed a lot more fun than Neurology and it was an equally viable career path. So, I decided to learn my very real first programming language.
+When I was in 6th grade, I got my first taste of programming using an app called Hopscotch. It was a simple drag-and-drop code blocks app for iPads (I didn't have a computer at that time). I spent so much of my free time making games and random projects. By the time I was in 8th grade (13 years old), I decided that programming seemed a lot more fun than Neurology and it was an equally viable career path. So, I decided to learn my very real first programming language.
 
-Apple's Swift was my language of choice. Not because I wanted it to be, but because all I had was my iPad, and Swift Playgrounds seemed familiar and novel at the same time. I didn't get super deep into the world of iOS development. I spent most of my time around this age just getting used to the fundamentals. I learned about control flow, variables, conditionals, loops, and functions.
+Apple's Swift was my language of choice. Not because I wanted it to be, but because all I had was my iPad, and Swift Playgrounds seemed familiar and novel at the same time. I didn't get super deep into the world of iOS development. I spent most of my time just getting used to the fundamentals. I learned about control flow, variables, conditionals, loops, and functions.
 
 Before I knew it, I was a freshman in high school.
 
@@ -41,11 +41,11 @@ Let's take a step back for a second.
 
 I don't know how applicable these terms are to people who grew up in different school systems, but in Las Vegas, the whole city is in one county with one school district. During my time in school, students had what was called their zoned school, which is the school they'd be assigned to based on proximity. Under certain circumstances, you could go to other schools around the city. My middle school was a "magnet school" which is a public school could apply to get into regardless of where you lived in the city. Magnet schools have magnet programs, and my specific program area was Biomedicine. I also did Video Production on the side, which really exposed me to a lot of cool tech.
 
-After finishing middle school, I applied to a couple of magnet high schools. I ended up getting into Advanced Technologies Academy (A Tech for short) which is the number one ranked high school in the state. My program area this time was Computer Science, which meant I was required to take college-level computer science courses my whole way through high school.
+After finishing middle school, I applied to a couple of magnet high schools. I ended up getting into Advanced Technologies Academy (A Tech for short) which is the number one ranked high school in the state. My program area at this time was Computer Science, which meant I was required to take college-level computer science courses my whole way through high school.
 
 ### Freshman Year
 
-My freshman year of high school, I was in my first AP Computer Science class. Here I learned JavaScript. Honestly, most of it was a repeat of what I had learned in Swift, but I finally had full projects to work on. Most of our coding was done on [Code.org](https://code.org). This taught me the fundamentals of structuring a project. Halfway through the school year, I received an HP Chromebook, my first laptop. I convinced my parents I needed it for school, which was mostly true. The very first thing I did with it was install Linux on it. To this day, there is a video on my YouTube channel from around that time where I explain how to get Linux on a Chromebook. This unlocked a whole new world for me. No longer was I bounded to the limits of my iPad. I could install new languages, new libraries, and make entirely new projects. I also started learning the fundamentals of the command line and absolutely fell in love with it. The only downside was that it was too slow to run any kind of GUI-based text editor but with Vim by my side, I was ready to take on anything.
+In my freshman year of high school, I was in my first AP Computer Science class. Here I learned JavaScript. Honestly, most of it was a repeat of what I had learned in Swift, but I finally had full projects to work on. Most of our coding was done on [Code.org](https://code.org). This taught me the fundamentals of structuring a project. Halfway through the school year, I received an HP Chromebook, my first laptop. I convinced my parents I needed it for school, which was mostly true. The very first thing I did with it was install Linux on it. To this day, there is a video on my YouTube channel from around that time where I explain how to get Linux on a Chromebook. This unlocked a whole new world for me. No longer was I bound to the limits of my iPad. I could install new languages and new libraries, and make entirely new projects. I also started learning the fundamentals of the command line and absolutely fell in love with it. The only downside was that it was too slow to run any kind of GUI-based text editor but with Vim by my side, I was ready to take on anything.
 
 {{< video
 url="https://i.imgur.com/x0lkIsf.mp4"
@@ -66,7 +66,7 @@ The summer after, I took it upon myself to learn Python because I saw a Michael 
 
 ### Sophomore Year
 
-My sophomore year of high school, we were required to learn Java. This is where the real learning starts. This is also where I met one of the most important people in my progression as a software developer, Mr. Mayo.
+During my sophomore year of high school, we were required to learn Java. This is where the real learning starts. This is also where I met one of the most important people in my progression as a software developer, Mr. Mayo.
 
 That year, I learned what Object-Oriented Programming was. I also learned recursion, basic algorithms (bubble sort, insertion sort, selection sort, and merge sort), and time/space complexity. This was the first time I was doing any real problem-solving and trying to find the optimal solution.
 
@@ -84,11 +84,11 @@ Then the pandemic happened...
 
 ### Summer Two
 
-Around this time, I heard some wise advice. Constantly switching programming languages was going to slow down my progression as a programmer. I decided to hone my skill in the languages I already knew, primarily Python and JavaScript. Honestly, I can't remember a single notable other thing from this summer; the pandemic was a blur.
+Around this time, I heard some wise advice. Constantly switching programming languages was going to slow down my progression as a programmer. I decided to hone my skills in the languages I already knew, primarily Python and JavaScript. Honestly, I can't remember a single notable other thing from this summer; the pandemic was a blur.
 
 ### Junior Year
 
-I spent this entire year doing online school. This, by far, was my best year academically. I genuinely enjoyed this year more than any other year leading up to it. All of my classes were hosted using Google Meets. Some people had spreadsheets to manage all the links; I had a web app hosted on my Raspberry Pi that changed a hyperlink using a socket connection depending on the time of the day. I could change my schedule by modifying a JSON file that specified the name, start, and end of each class. That was just the start. I also got really into journaling at this time, and I made an AES-256 bit encrypted journaling app using Electron called Penny. And I made a crazy amount of smaller projects to fill the time home alone.
+I spent this entire year doing online school. This, by far, was my best year academically. I genuinely enjoyed this year more than any other year leading up to it. All of my classes were hosted using Google Meets. Some people had spreadsheets to manage all the links; I had a web app hosted on my Raspberry Pi that updated a hyperlink using a socket connection depending on the time of the day. I could change my schedule by modifying a JSON file that specified the name, start, end, and url of each class. That was just the start. I also got really into journaling at this time, and I made an AES-256-bit encrypted journaling app using Electron called Penny. And I made a crazy amount of smaller projects to fill the time at home alone.
 
 I also had a rather fun run-in with AI that you can read about in my [racist robots](/posts/racist-robots) post.
 
