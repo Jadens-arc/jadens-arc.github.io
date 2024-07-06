@@ -15,7 +15,6 @@ description = "Software Developer based in Las Vegas, Nevada"
 mode = "toggle"
 mathjax = true                                                # enable MathJax support
 katex = true                                                  # enable KaTeX support
-customcss = ["css/custom.css"]
 enableRobotsTXT = true
 
 # Social Tags
