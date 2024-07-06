@@ -3,7 +3,7 @@ title = "Jaden Arceneaux"
 date = 2023-01-01
 aliases = ["/about", "/link-in-bio"]
 +++
-
+="message"
 Software developer, occasional writer, and dedicated Neovim user based
 in beautiful Las Vegas, Nevada🌵
 
@@ -28,8 +28,8 @@ infrastructure is managed.
 
 Outside of that, programming has been my passion for a big part of my
 life. I taught myself my first programming language at 13 and
-instantly became hooked. There hasn't been a single day since where
-I haven't worked on a project.
+instantly became hooked.
+
 
 Feel free to check out some of my projects or read my blog, and thanks
 for being here at all :)
