@@ -95,7 +95,7 @@ Hello, World!
 ironmind -v myfile.bf
 ```
 Output:
-![visualizer](/visualizer.png)
+![visualizer](https://s3.us-west-1.amazonaws.com/jadenarceneaux.com/visualizer.png)
 
 ## Build Instructions
 ### System Dependencies
