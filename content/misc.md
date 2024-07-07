@@ -44,7 +44,7 @@ Much love ❤️
 4A1r8H3UupXZDpZtzhzdoeKLFB9p1WMYU6tfNpMztPMXbPtjRvtuvdc6HMybUr6C9ddH5ZzhRPefoTsmWk3vkpbtE98jGVb
 ```
 
-## My PGP Public Key | [Download](/AC34D646B6DACBC1804A8EB0E349190839CE77CD.asc)
+## My PGP Public Key | [Download](https://s3.us-west-1.amazonaws.com/jadenarceneaux.com/AC34D646B6DACBC1804A8EB0E349190839CE77CD.asc)
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
