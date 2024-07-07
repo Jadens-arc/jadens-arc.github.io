@@ -24,7 +24,7 @@ I assume everyone reading this is at least somewhat tech-savvy, but just in case
 
 **There is no perfect way to store information**. Just as a piece of paper slowly degrades as you write and erase on it, the same fate dooms hard drives, solid-state drives, and every other form of data storage known to man. Even when static, data suffers from gradual deterioration. There's a technical term for this, it's called `bit rot`
 
-**We are in a constant race against our technology**. Data loss isn't a rare, once-in-a-lifetime, event. We have whole technologies, like RAID, designed to soften the impact of the inevitable and make data recovery more feasible. For network engineers, the thought of a hard drive crashing isn't even a question, it's a certainty. And god bless these network engineers because without their constant maintenance so much of the modern world would be lost and there'd be a severe lack of *information* in the information age
+**We are in a constant race against our technology**. Data loss isn't a rare, once-in-a-lifetime, event. We have whole technologies, like RAID, designed to soften the impact of the inevitable and make data recovery more feasible. For network engineers, the thought of a hard drive crashing isn't even a question, it's a certainty. And god bless these network engineers because without their constant maintenance so much of the modern world would be lost and there'd be a severe lack of *information* in the information age.
 
 ## The Problem
 This raises the question, what happens when this constant upkeep doesn't happen? What happens when our data is left to just sit there, either because of a global crisis or simply a lack of funding/demand? Will this stuff really stand the test of time? 
