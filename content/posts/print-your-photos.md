@@ -22,7 +22,7 @@ I assume everyone reading this is at least somewhat tech-savvy, but just in case
 
 **The cloud is just someone else's computer**. Whenever you upload anything anywhere it doesn't just go into the ether, it goes into another computer somewhere else into the world. While it might be a big computer, maintained by highly skilled people, it is nonetheless just a computer. The same, in principle, as the one in your pocket. Just as your phone slows down over time and slowly degrades, so too will happen to servers across the world. 
 
-**There is no perfect way to store information**. Just as a piece of paper slowly degrades as you write and erase on it, the same fate dooms hard drives, solid-state drives, and every other form of data storage known to man. Even when static, data suffers from gradual deterioration. There's a technical term for this, it's called `bit rot`
+**There is no perfect way to store information**. Just as a piece of paper slowly degrades as you write and erase on it, the same fate dooms hard drives, solid-state drives, and every other form of data storage known to man. Even when static, data suffers from gradual deterioration. There's a technical term for this, it's called `bit rot`.
 
 **We are in a constant race against our technology**. Data loss isn't a rare, once-in-a-lifetime, event. We have whole technologies, like RAID, designed to soften the impact of the inevitable and make data recovery more feasible. For network engineers, the thought of a hard drive crashing isn't even a question, it's a certainty. And god bless these network engineers because without their constant maintenance so much of the modern world would be lost and there'd be a severe lack of *information* in the information age.
 
