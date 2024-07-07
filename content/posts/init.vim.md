@@ -8,7 +8,7 @@ readTime = 7
 
 I know no one cares about my dotfiles. That's not going to stop me from sharing them.
 
-[Download init.vim](/init.vim)
+[Download init.vim](https://s3.us-west-1.amazonaws.com/jadenarceneaux.com/init.vim)
 
 ## Installation
 - Install [Neovim](https://github.com/neovim/neovim/blob/master/INSTALL.md)
