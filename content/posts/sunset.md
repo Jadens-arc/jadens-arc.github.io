@@ -9,5 +9,5 @@ This sunset isn't super spectacular but the vibrant colors in contrast to the se
 
 Yes, I was flying spirit and it went surprisingly well. Also, I met a nice lady on the plane and she showed me a picture of her dog so shout out to Jessica and her dog.
 
-![sunset from plane](https://i.imgur.com/pEIB6If.jpeg)
+![sunset from plane](https://s3.us-west-1.amazonaws.com/jadenarceneaux.com/sunset.jpg)
 

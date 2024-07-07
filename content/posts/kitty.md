@@ -25,7 +25,7 @@ I did encounter one issue with it not working correctly with NCurses. I'm not su
 
 Currently, I'm using Neovim inside Kitty to write this blog post and I have to say it's very smooth, very responsive, and overall just looks beautiful. 
 
-![Image of my setup](https://i.imgur.com/KT00Kg6.png)
+![Image of my setup](https://s3.us-west-1.amazonaws.com/jadenarceneaux.com/neovim.webp)
 
 The ability to natively split windows is so handy for having an editor window open and my server logs and other notes off to the side.
 

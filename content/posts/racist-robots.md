@@ -42,7 +42,7 @@ What happens when you over-correct for racial bias in your dataset?
 In 2023, Google launched its competitor to OpenAI's ChatGPT, Google Gemini. Quickly, people noticed that when asking Google Gemini to generate historical images, it had a tendency to illustrate _less than accurate_ depictions of the diversity of the past.
 
 {{< img
-url="https://i.imgur.com/Bl1rE9l.jpg"
+url="https://s3.us-west-1.amazonaws.com/jadenarceneaux.com/founding-fathers.jpeg"
 description="Google Gemini when asked to generate an image of the founding fathers"
 align="center"
 size="75" >}}

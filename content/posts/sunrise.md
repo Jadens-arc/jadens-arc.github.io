@@ -8,6 +8,6 @@ readTime=0
 
 This beautiful sunrise I captured at 7:22am
 
-![](https://i.imgur.com/fPPGySR.jpeg)
+![](https://s3.us-west-1.amazonaws.com/jadenarceneaux.com/sunrise.jpeg)
 
 > Listening to Blonde by Frank Ocean
