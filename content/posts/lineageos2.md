@@ -9,7 +9,7 @@ Figured I'd make a follow-up to my original post and go into more detail about m
 
 {{< img
 url="https://s3.us-west-1.amazonaws.com/jadenarceneaux.com/lineageosphone.png"
-description="Me in middle school"
+description="My Phone"
 align="center"
 size="75" >}}
 
