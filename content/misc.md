@@ -38,13 +38,12 @@ draft = false
 
 Much love ❤️
 
-## Buy me a hot vanilla latte with extra sweetener
 
-Much appreciated
+## Support me
 
-[buymeacoffee.com/jadenarceneaux](https://buymeacoffee.com/jadenarceneaux)
+[Buy me a hot vanilla latte with extra sweetener](https://buymeacoffee.com/jadenarceneaux)
 
-Or send me Monero
+Or send Monero
 ```
 4A1r8H3UupXZDpZtzhzdoeKLFB9p1WMYU6tfNpMztPMXbPtjRvtuvdc6HMybUr6C9ddH5ZzhRPefoTsmWk3vkpbtE98jGVb
 ```
