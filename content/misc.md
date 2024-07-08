@@ -38,11 +38,18 @@ draft = false
 
 Much love ❤️
 
-## Buy me a hot vanilla latte with extra sweetener (XMR)
+## Buy me a hot vanilla latte with extra sweetener
 
+Much appreciated
+
+[buymeacoffee.com/jadenarceneaux](https://buymeacoffee.com/jadenarceneaux)
+
+Or send me Monero
 ```
 4A1r8H3UupXZDpZtzhzdoeKLFB9p1WMYU6tfNpMztPMXbPtjRvtuvdc6HMybUr6C9ddH5ZzhRPefoTsmWk3vkpbtE98jGVb
 ```
+
+
 
 ## My PGP Public Key | [Download](https://s3.us-west-1.amazonaws.com/jadenarceneaux.com/AC34D646B6DACBC1804A8EB0E349190839CE77CD.asc)
 
