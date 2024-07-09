@@ -3,6 +3,12 @@ title = 'Misc.'
 draft = false
 +++
 
+{{< img
+url="https://s3.us-west-1.amazonaws.com/jadenarceneaux.com/logo.GIF"
+description="My Phone"
+align="center"
+size="50" >}}
+
 - _Scorpio_ sun, Gemini rising, and Cancer moon
 - My favorite languages are Python, Rust, and C
 - Also, I do photography as a hobby
