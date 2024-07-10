@@ -3,11 +3,7 @@ title = 'Misc.'
 draft = false
 +++
 
-{{< img
-url="https://s3.us-west-1.amazonaws.com/jadenarceneaux.com/logo.GIF"
-description="My Phone"
-align="center"
-size="50" >}}
+[See my logo](/logo)
 
 - _Scorpio_ sun, Gemini rising, and Cancer moon
 - My favorite languages are Python, Rust, and C
@@ -48,7 +44,7 @@ Much love ❤️
 
 ## Support me
 
-[Buy me a hot vanilla latte with extra sweetener](https://buymeacoffee.com/jadenarceneaux)
+{{< buymeacoffee >}}
 
 Or send Monero
 ```

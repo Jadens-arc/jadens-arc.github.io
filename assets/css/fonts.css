@@ -39,3 +39,12 @@
        url('../fonts/ibm-plex-mono-v6-latin-500italic.ttf') format('truetype'), /* Safari, Android, iOS */
        url('../fonts/ibm-plex-mono-v6-latin-500italic.svg#IBMPlexMono') format('svg'); /* Legacy iOS */
 }
+
+/* ibm-plex-mono-500italic - latin */
+@font-face {
+  font-display: swap;
+  font-family: 'Cookie';
+  font-style: regular;
+  font-weight: 400;
+  src: url('../fonts/Cookie-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+}
