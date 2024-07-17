@@ -4,6 +4,7 @@ date = 2024-03-27T19:12:24-07:00
 draft = false
 tags = ["ramblings", "photo", "psa"]
 readTime = 6
+isFavorite = true
 +++
 ## Introduction
 I take a lot of pictures, and I mean a lottt of pictures. If you've read my past blog posts you'd know that. I want to be able to remember such a critical part of my life. I want to be remembered. And I want to capture these memories in as much detail as I can. In a strange twist, it is difficult at times to live in the moment without thinking about how this moment will be remembered. So the topic of data storage is very near and dear to my heart. Three things in particular contributed to my decision to write about this. 
