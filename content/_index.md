@@ -18,16 +18,9 @@ in beautiful Las Vegas, Nevada🌵
 
 ## Overview
 
-I've been working at ISP.Net for over two years now as a Full
-Stack Developer. I primarily work in PHP with the Symfony framework.
-Working at an internet service provider has given me the unique
-opportunity to not only grow as a developer building enterprise
-software but to also learn about how some of the most critical
-infrastructure is managed.
-
-Outside of that, programming has been my passion for a big part of my
+Programming has been my passion for a big part of my
 life. I taught myself my first programming language at 13 and
-instantly became hooked.
+instantly became hooked. I've been a full stack developer for over 2 years now.
 
 
 Feel free to check out some of my projects or read my blog, and thanks
