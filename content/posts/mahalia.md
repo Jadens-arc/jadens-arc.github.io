@@ -5,7 +5,7 @@ draft = false
 isFavorite = false
 +++
 
-I lost the best friend I ever had, my great-grandma. Born in 1941, she was the definition of persistence. By the time she was just a few years older than me, she had already moved her whole family from Louisiana to California. She worked as a maid and later for the Post Office. She raised my great aunt, my grandfather, and eventually my mom.
+I lost the best friend I ever had, my great-grandma. Born in 1941, she was the definition of persistence. By the time she was just a few years older than me, she had already moved her whole family from Louisiana to California. She worked as a house cleaner and later for The Post Office. She raised my great aunt, my grandfather, and eventually my mom.
 
 When my mom got pregnant with me, she moved again—this time to Las Vegas. From the day I was born, she showed me nothing but unconditional love. She always made time for me and reassured me that I could tell her anything. I got my first phone when I was 5, and I used it almost exclusively to call her at the end of every day. We’d talk about how our days went and everything in between.
 
