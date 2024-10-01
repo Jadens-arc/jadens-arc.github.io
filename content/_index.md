@@ -6,6 +6,9 @@ aliases = ["/about", "/link-in-bio"]
 Software developer, occasional writer, and dedicated Neovim user based
 in beautiful Las Vegas, Nevada🌵
 
+{{< holidays >}}
+
+
 ## Links
 
 - contact@jadenarceneaux.com
