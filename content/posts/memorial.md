@@ -9,6 +9,12 @@ Mahalia was born in New Orleans, Louisiana.  She was the fourth child born to A
 As the last surviving member of her immediate family, she was predeceased by her parents Ethel Mae and Albert Franklin Sr., Siblings Mary Lee Morgan, Albert Franklin Jr., Alvin Franklin and Marian Martinez. She is survived by her daughter Vanessa Anderson, son Bruce Anderson, granddaughters Jasmine Anderson and Dalia Charlene Anderson, and great-grandson Jaden Kenneth Arceneaux.
 
 {{< img
+url="https://s3.us-west-1.amazonaws.com/jadenarceneaux.com/grammy2/IMG_7705.jpeg"
+description=""
+align="center"
+size="100" >}}
+
+{{< img
 url="https://s3.us-west-1.amazonaws.com/jadenarceneaux.com/grammy2/22BFF88B-7EF4-426B-B882-39EB120F1B7E.jpeg"
 description=""
 align="center"
