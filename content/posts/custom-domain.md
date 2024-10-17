@@ -15,17 +15,17 @@ This is by far the easiest process
 
 Go to whatever domain provider you have and configure email forwarding. Forward all emails going to a specific address to your Gmail address.
 
-For this tutorial I'll use Squarespace
+For this tutorial, I'll use Squarespace.
 
 1. Head to [account.squarespace.com/domains](https://account.squarespace.com/domains)
 2. Click on the domain you'd like to configure
-3. On the left hand side click "Email"
+3. On the left-hand side click "Email"
 4. Click "Add Rule"
-    1. Set "Forward from" to what ever custom email you'd like to use
+    1. Set "Forward from" to whatever custom email you'd like to use
     2. Set "Forward to" to your Gmail address
     3. Click "Save"
  
-That's it! All email going to that custom email address will be forwarded to your Gmail inbox. 
+That's it! All emails to that custom email address will be forwarded to your Gmail inbox. 
 
 
 
@@ -38,7 +38,7 @@ That's it! All email going to that custom email address will be forwarded to you
 4. Go to the "Accounts and Imports" tab
 5. Under the "Send mail as" row click "Add another email address"
 
-This should bring up a popup window
+This should bring up a popup window.
 
 6. Under "Email address" enter the email address of the custom domain you want to use (make sure "Treat as an alias" is checked)
 7. Click "Next" then configure the SMTP server as follows
@@ -46,33 +46,33 @@ This should bring up a popup window
     2. Port is 587
     3. Username is the email address you use to sign into Google
     4. Password needs to be an [app specific password](#setting-up-an-app-specific-password-for-google). Copy and paste in the password
-8. An email will be "sent" to the custom domain to confirm(authenticate) that email can be sent from Google's SMTP server. If you configured email forwarding in the last section them this confirmation email will just come to your Gmail Inbox. Just click on the link provided.
+8. An email will be "sent" to the custom domain to confirm(authenticate) that email can be sent from Google's SMTP server. If you configured email forwarding in the last section then this confirmation email will just come to your Gmail Inbox. Just click on the link provided.
  
-Done! That's it. You should be able to send email from Gmail
+Done! That's it. You should be able to send email from Gmail with your custom domain.
  
 ### For the iOS Mail App
-Although you might have added the alias in Gmail, you will not be able to send emails from this address in the iOS mail app. This is where things get annoying. Also iOS 18 changed up a lot of the process so I'm not going to be able to hold your hand as much.
+Although you might have added the alias in Gmail, you will not be able to send emails from this address in the iOS mail app. This is where things get annoying. Also iOS 18 changed up a lot of the process so I'm won't be able to hold your hand as much.
  
 1. Get to the settings app
 2. Go to mail settings (it's in a different location on iOS 18 so if you can't find it just search it)
 3. Click on "Mail Accounts"
 4. Click "Add Account"
-5. Click "Other", then "Add Mail Account". we're going to have to manually configure the SMTP server
+5. Click "Other", then "Add Mail Account". We're going to have to configure the SMTP server manually.
 	1. Set name to your name (or not)
     2. Set email to your custom email address
     3. Set password to an [app specific password](#setting-up-an-app-specific-password-for-google)
-    4. Set description to literally whatever you want it doesn't matter
+    4. Set the description to literally whatever you want it doesn't matter
     5. Click "Next"
     6. Under Incoming Mail Server
         1. Host Name is imap.gmail.com
-        2. User Name is your full gmail address
-        3. Password should autofill to you app specific password from earlier, if not just paste it in
+        2. User Name is your full Gmail address
+        3. Password should autofill to your app-specific password from earlier, if not just paste it in
     7. Outgoing Mail Server
         1. Host Name is smpt.gmail.com
         2. User Name is your full gmail address
-        3. Password should autofill to you app specific password from earlier, if not just paste it in
+        3. Password should autofill to your app-specific password from earlier, if not just paste it in
 
-That's it. Now you can send and receive emails to you custom email address from your iPhone.
+That's it. Now you can send and receive emails to your custom email address from your iPhone.
 
 > Pro Tip: In the mail accounts list click on the account you just added. Click "Account Settings" then click "Advanced". Changed "Move Discarded Messages Into" from Deleted Mailbox to Archive Mailbox. This means that when you swipe right on an email it will archive it rather than delete it. 
 
