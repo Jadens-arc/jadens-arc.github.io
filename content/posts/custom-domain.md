@@ -5,7 +5,7 @@ draft = false
 isFavorite = false
 +++
 
-Despite what Google might advertise with Google Workspace, there is a free alternative to get a custom domain with Gmail. Although it does take some technical no-how
+Despite what Google might advertise with Google Workspace, there is a free alternative to get a custom domain with Gmail. Although it does take some technical know-how
 
 
 Receiving mail to a custom domain **must** be done before you can send mail from a custom domain
