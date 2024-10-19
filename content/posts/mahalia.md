@@ -4,6 +4,7 @@ date = 2024-09-30T20:30:47-07:00
 draft = false
 isFavorite = false
 readTime=43623360
+hidden=true
 +++
 
 I lost the best friend I ever had, my great-grandma. Born in 1941, she was the definition of persistence. By the time she was just a few years older than me, she had already moved her whole family from Louisiana to California. She worked as a house cleaner and later for The Post Office. She raised my great aunt, my grandfather, and eventually my mom.

@@ -8,6 +8,9 @@
 
 <ul class="posts">
 	{{- range (where .Site.RegularPages "Section" "posts") -}}
+		{{- if index .Params "hidden" -}}
+			{{ continue }}
+		{{- end -}}
 		{{- if (not (in (.Site.Params.excludedTypes | default (slice "page")) .Type)) -}}
 		<li class="post">
 			{{ with index .Params "IsFavorite" }}
