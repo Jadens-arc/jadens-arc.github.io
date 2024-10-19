@@ -46,12 +46,12 @@ This should bring up a popup window.
     2. Port is 587
     3. Username is the email address you use to sign into Google
     4. Password needs to be an [app specific password](#setting-up-an-app-specific-password-for-google). Copy and paste in the password
-8. An email will be "sent" to the custom domain to confirm(authenticate) that email can be sent from Google's SMTP server. If you configured email forwarding in the last section then this confirmation email will just come to your Gmail Inbox. Just click on the link provided.
+8. An email will be "sent" to the custom domain to confirm that email can be sent from Google's SMTP server. If you configured email forwarding in the last section then this confirmation email will just come to your Gmail Inbox. Just click on the link provided.
  
 Done! That's it. You should be able to send email from Gmail with your custom domain.
  
 ### For the iOS Mail App
-Although you might have added the alias in Gmail, you will not be able to send emails from this address in the iOS mail app. This is where things get annoying. Also iOS 18 changed up a lot of the process so I'm won't be able to hold your hand as much.
+Although you might have added the alias in Gmail, you will not be able to send emails from this address in the iOS mail app. This is where things get annoying. Also iOS 18 changed up a lot of the process so I won't be able to hold your hand as much.
  
 1. Get to the settings app
 2. Go to mail settings (it's in a different location on iOS 18 so if you can't find it just search it)
