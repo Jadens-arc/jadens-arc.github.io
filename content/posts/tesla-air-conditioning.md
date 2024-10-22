@@ -1,5 +1,5 @@
 +++
-title = 'Tesla Air Conditioning'
+title = 'Why does my Tesla stink?'
 date = 2024-10-21T02:45:49-07:00
 draft = false
 isFavorite = false
