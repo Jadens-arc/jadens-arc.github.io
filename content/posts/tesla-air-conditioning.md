@@ -26,7 +26,7 @@ Most internal combustion engine cars have separate systems to cool the engine vs
 
 ## So why does this matter
 
-This excess of condensation causes the air coming from the air conditioner to be really humid. Which just sucks. This causes moisture to build up in the air conditioning vents which can lead to bacteria and mildew forming in them. Which causes the whole car to stink. It also just makes the car so humid every time you drive it with the AC on. 
+This excess of condensation causes the air coming from the air conditioner to be really humid. Which just sucks. This causes moisture to build up in the air conditioning vents and filters which can lead to bacteria and mildew forming in them. Which causes the whole car to stink. It also just makes the car so humid every time you drive it with the AC on. 
 
 ## The solution
 
