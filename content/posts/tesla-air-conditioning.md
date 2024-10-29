@@ -22,8 +22,6 @@ Every air conditioning system is just a heat pump. I'm not going to go into deta
 
 They use the same system to cool the battery as they do to cool the cabin. So compared to most cars, they have a much more powerful air conditioning system. Which means that, compared to other cars, Teslas make a lot more condensation. If you ever spot a Tesla supercharging station take a second to look at the ground, you might notice some small puddles forming under the cars. That's condensation from the cooling system. 
 
-Most internal combustion engine cars have separate systems to cool the engine vs the cabin. Hence why most internal combustion engine cars take both refrigerant and coolant.
-
 ## So why does this matter
 
 This excess of condensation causes the air coming from the air conditioner to be really humid. Which just sucks. This causes moisture to build up in the air conditioning vents and filters which can lead to bacteria and mildew forming in them. Which causes the whole car to stink. It also just makes the car so humid every time you drive it with the AC on. 
