@@ -1,5 +1,5 @@
 +++
-title = 'Why Does Every Tech Company Think Everyone Wants Ai'
+title = 'Why Does Every Tech Company Think Everyone Wants AI'
 date = 2024-10-29T18:24:10-07:00
 draft = false
 isFavorite = false
