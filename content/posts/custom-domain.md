@@ -3,6 +3,7 @@ title = 'Using a custom domain name with Gmail for free'
 date = 2024-10-16T19:46:49-07:00
 draft = false
 isFavorite = false
+readTime = 3
 +++
 
 Despite what Google might advertise with Google Workspace, there is a free alternative to get a custom domain with Gmail. Although it does take some technical know-how
@@ -84,15 +85,3 @@ That's it. Now you can send and receive emails to your custom email address from
 4. Scroll to the bottom and click on "App passwords"
 5. Type in something (literally anything) for "App name" then click "Create"
 6. Copy the app password
-
-
-
-
-
-
-
-
-
-
-
-
