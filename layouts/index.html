@@ -27,6 +27,18 @@
           */}} {{- end -}}
         </div>
         {{ .Content }}
+        <h2>Mailing List</h2>
+        <p>Get notified when I post!</p>
+        <form action="https://formspree.io/f/myzyjqan" method="post">
+          <label for="email">Email Address:</label>
+          <input name="email" />
+          <div>
+            <button type="submit">Subscribe</button>
+          </div>
+        </form>
+        <a href="/unsubscribe-from-mailing-list"
+          >Unsubscribe from mailing list</a
+        >
       </main>
       {{ partial "footer.html" . }}
     </div>

@@ -347,3 +347,55 @@ table td{
   padding: 6px 13px;
   border: 1px solid #dfe2e5;
 }
+
+form {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  padding: 30px;
+}
+
+label {
+  display: flex;
+  display: flex;
+  align-items: center;
+}
+
+input {
+  font-family: "Roboto Mono", monospace;
+  font-size: 15px;
+  flex: 1 auto;
+  background-color: transparent;
+  outline: none;
+  border: 1px solid black;
+  border-radius: 0px;
+  padding: 5px;
+  margin-bottom: 20px;
+}
+
+textarea {
+  font-family: "Roboto Mono", monospace;
+  font-size: 15px;
+  margin-bottom: 20px;
+  background-color: transparent;
+  outline: none;
+  border: 1px solid black;
+  border-radius: 0px;
+  padding: 5px;
+}
+
+button {
+  margin: 20px 0;
+  font-family: "Roboto Mono", monospace;
+  background-color: transparent;
+  color: black;
+  border: none;
+  outline: none;
+  border-bottom: 3px solid var(--maincolor);
+  padding: 0;
+}
+
+button:hover {
+  background-color: navy;
+  color: white;
+}
