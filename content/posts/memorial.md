@@ -7,7 +7,7 @@ hidden=true
 +++
 ## Memorial Service
 
-[Click here if embed video doesn't work](https://www.youtube.com/watch?v=WO7EO60CQwE)
+[Click here if the embedded video doesn't work](https://www.youtube.com/watch?v=WO7EO60CQwE)
 
 {{< youtube WO7EO60CQwE >}}
 
