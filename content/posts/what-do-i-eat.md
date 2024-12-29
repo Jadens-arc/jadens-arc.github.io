@@ -7,7 +7,7 @@ isFavorite = false
 
 The question that everyone around me seems to constantly ask. I'll admit, I don't eat much, I never have. Since birth, I've technically been a pollotarian but I say technically because it's not something I do intentionally.
 
-> I feel like everyone of my blog posts can be destroyed with the question "who care", this one is the epitome of that.
+> I feel like everyone of my blog posts can be destroyed with the question "who cares", this one is the epitome of that.
 
 ## The Situation
 
