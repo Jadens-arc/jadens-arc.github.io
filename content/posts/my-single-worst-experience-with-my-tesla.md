@@ -9,7 +9,7 @@ For those of you who don't know, I drive a 2024 Tesla Model 3 affectionately nam
 
 ## What happened?
 
-Earlier today, I spent some time hanging out with my dad because his birthday just passed. The entire time I used Full Self Driving and let my car drive me all over the city. It worked flawlessly. First, we ate some food and then headed to Top Golf. We had a great time and on the way out I decided to use the Smart Summon feature to tell my car to come pick us up at the curb. While this feature has given me some issues in the past, like the car driving the wrong way up a parking garage, it worked flawlessly this time. Up until I got into the car and tried to drive away. It shifted into drive like normal but when I tried to turn the steering wheel it wouldn't budge. An alert popped up on the screen saying "Steering assist reduced". 
+Earlier today, I spent some time hanging out with my dad because his birthday just passed. The entire time I used Full Self Driving and let my car drive me all over the city. It worked flawlessly. First, we ate some food and then headed to Top Golf. We had a great time and on the way out I decided to use the Smart Summon feature to tell my car to come pick us up at the curb. While this feature has given me some issues in the past, like driving the wrong way up a parking garage, it worked flawlessly this time. Until I got into the car and tried to drive away. It shifted into drive like normal but when I tried to turn the steering wheel it wouldn't budge. An alert popped up on the screen saying "Steering assist reduced". 
 
 ## What is Steering Assist?
 
