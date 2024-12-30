@@ -19,7 +19,7 @@ In most modern cars the front wheels aren't turned purely from the force applied
 
 For whatever reason, the computer in my car just decided that it didn't want to use the electric motors to help me turn the steering wheel. I could barely turn the steering wheel, much less drive home. With a lot of prying, I was able to get the car back into a parking space so it wasn't just sitting at the curb. Not without the steering wheel letting out a few cracks and pops from the amount of force I had to use on it. Then I got straight to Googling. One result said to reboot the car; I then watched a YouTube video on how to reboot the car because that's not something I've done before (you hold the two buttons on the steering wheel simultaneously until the screen turns black). I tried it twice and it didn't help, I still couldn't turn the wheel. Eventually, I found a response to a one-year-old forum post where a guy had the same issue. The reply said to literally just "let the car sit for an hour".
 
-> By the way, Teslas come with free roadside assistance. I could have called to have someone come out and diagnose the car and tow it if nessesary but I'm too hard-headed for that.
+> By the way, Teslas come with free roadside assistance. I could have called to have someone come out and diagnose the car and tow it if necessary but I'm too hard-headed for that.
 
 Out of options, I decided we'd just let the car sit for an hour. So me and my dad just walked the Las Vegas Strip and pretended to be tourists for a bit. Eventually, about 40 minutes later, we came back to the car and sure enough, it worked just fine and we drove home. 
 
