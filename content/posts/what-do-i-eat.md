@@ -6,9 +6,9 @@ isFavorite = false
 readTime = 3
 +++
 
-The question that everyone around me seems to constantly ask. I'll admit, I don't eat much, I never have. Since birth, I've technically been a pollotarian but I say technically because it's not something I do intentionally.
+The question that everyone around me seems to constantly ask. I'll admit, I don't eat much, I never have. Since birth, I've technically been a [pollotarian](https://en.wikipedia.org/wiki/Pollotarianism) but I say technically because it's not something I do intentionally.
 
-> I feel like everyone of my blog posts can be destroyed with the question "who care", this one is the epitome of that.
+> I feel like everyone of my blog posts can be destroyed with the question "who cares", this one is the epitome of that.
 
 ## The Situation
 
@@ -20,9 +20,9 @@ I'm a big fan of salads however I have to be careful. Unbeknownst to most, Caesa
 
 Mayonnaise can make my throat hurt if I eat enough of it but most mayo (especially the lower-quality store-bought stuff) doesn't use real eggs so it's okay. I usually just don't order mayo at nice restaurants to make sure I never get the real stuff. 
 
-What about ice cream? Strawberries (or any other fruits) are off the table. I don't know how I haven't mentioned this yet but I don't really like chocolate. I've warmed up to it as I've gotten older (I like ice cream sand witches and Oreos) but I still find it way too overpowering to eat on its own. Chocolate bars on there own taste way too strong for me to enjoy. So I don't like chocolate ice cream. Mint ice cream is just frozen toothpaste, I don't understand how anyone eats that shit. Vanilla bean makes my throat hurt enough for me to avoid it (vanilla bean is a fruit and the whole fruit seed thing). But French vanilla. French Vanilla? My first love. My baby. My twin flame. I love me some French vanilla ice cream. The biggest injustice in mankind ever is the prevalence, propagation, and proliferation of vanilla bean over French vanilla in society. I love **LOVE** going to small boutique ice cream shops and nothing pains me more than seeing a tub full of vanilla bean with no French vanilla in sight.
+What about ice cream? Strawberries (or any other fruits) are off the table. I don't know how I haven't mentioned this yet but I don't really like chocolate. I've warmed up to it as I've gotten older (I like ice cream sand witches and Oreos) but I still find it way too overpowering to eat on its own. Chocolate bars on there own taste way too strong for me to enjoy. So I don't like chocolate ice cream. Mint ice cream is just frozen toothpaste, I don't understand how anyone eats that shit. Vanilla bean makes my throat hurt enough for me to avoid it (vanilla bean is a fruit and the whole fruit seed thing). But French vanilla. French Vanilla? My first love. My baby. My twin flame. I love me some French vanilla ice cream. The biggest injustice in mankind ever is the prevalence, propagation, and proliferation of vanilla bean over French vanilla in society. I love, **LOVE**, going to small boutique ice cream shops and nothing pains me more than seeing a tub full of vanilla bean with no French vanilla in sight.
 
-> It seriously is getting to the point where I'm going to start naming names, tagging toes, leaving Yelp reviews
+> It seriously is getting to the point where I'm going to start naming names, tagging toes, and leaving Yelp reviews
 
 That's it. That's all I eat and even more of what I don't. Funny enough I love trying new restaurants. If you ever want some great recommendations for chicken spots I'm your guy. 
 
