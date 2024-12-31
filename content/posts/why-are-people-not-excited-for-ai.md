@@ -5,7 +5,7 @@ draft = false
 isFavorite = false
 +++
 
-> This is just a compilation of my observations in my day-to-day life asking people about AI. I could very well just be hanging out with haters and not even know it. Also I wrote this before the some current events and it's so interesting seeing this play out. I should also probably say that of course I'm biased because I'm a programmer and also I love my job.
+> This is just a compilation of my observations in my day-to-day life asking people about AI. I could very well just be hanging out with haters and not even know it. I should also probably say that of course I'm biased because I'm a programmer and also I love my job.
 
 Generally speaking, only two groups of people are really excited about the current renaissance in artificial intelligence research: students who use it to "study" and tech enthusiasts who see money to be made. But every working-class person outside of the tech sphere I've talked to seems to have the same apathetic and sometimes pessimistic reaction to AI.
 
