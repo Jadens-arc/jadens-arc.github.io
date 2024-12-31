@@ -10,7 +10,7 @@ readTime = 5
 
 Generally speaking, only two groups of people are really excited about the current renaissance in artificial intelligence research: students who use it to "study" and tech enthusiasts who see money to be made. But every working-class person outside of the tech sphere I've talked to seems to have the same apathetic and sometimes pessimistic reaction to AI.
 
-## The carrot and the stick
+## The Carrot and the Stick
 
 Much of what initially excited people about tech, dating back to the invention of the personal computer, is the idea that it would make our lives easier. That we'd have lighter workloads and better work-life balances. While the individual tasks might have gotten easier, the truth is that the expected productivity of each person has only inflated in response. What's even more interesting is the fact that while productivity has increased, wages have largely stayed the exact same. I have a personal anecdote about this. Programming! AI tools have revolutionized the way that programmers work. The speed at which we can understand and solve problems has increased significantly. But the simple truth is that it has not made the profession any easier. It's only raised the bar for what the average developer is expected to be able to accomplish in a single workday. Developers who know how to leverage AI tools effectively are becoming the standard and everyone else is left behind in the past.
 
