@@ -33,7 +33,7 @@ draft = false
 
 - Static site generation provided by [Hugo](https://gohugo.io)
 - Theme forked from [Archie](https://github.com/athul/archie)
-- Hosted on GitHub IO
+- Hosted in a KnownHost virtual private server
 - Assets stored in AWS S3
 - All code on [GitHub](https://github.com/jadens-arc/jadens-arc.github.io)
 
