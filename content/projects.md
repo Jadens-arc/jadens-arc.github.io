@@ -21,7 +21,7 @@ My focus throughout my professional life has been enterprise software. It has a 
     - Managed recurring and one-time payments for both internal billing and clients using the portal
     - Integrated with infrastructure to streamline setup for new clients and enforce suspensions for overdue accounts
   - Client Relationship Management System
-    - Tracked interactions and communications with paying clients
+    - Tracked interactions and communications with clients
     - Optimize customer support-client interactions 
   - Refactored and rewrote thousands of lines of legacy code
 - **[Ironmind](https://github.com/jadens-arc/Ironmind)** - 2024
