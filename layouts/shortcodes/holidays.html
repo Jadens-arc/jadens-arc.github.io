@@ -92,6 +92,7 @@
   <span
     style="
       background: linear-gradient(45deg, #00853f, black, #e31b23);
+      filter: drop-shadow(0 0 2rem white);
       background-clip: text;
       color: transparent;
       width: fit-content;
@@ -102,11 +103,26 @@
   </span>
 </p>
 
+<p style="display: none" id="christmas">
+  <span
+    style="
+      background: linear-gradient(45deg, #00853f,  #e31b23);
+      background-clip: text;
+      color: transparent;
+      width: fit-content;
+    "
+    id="christmas-text"
+  >
+    Merry Christmas
+  </span>
+  ❄️⛄️
+</p>
 <script>
-  const pride_month = document.getElementById("pride-month");
-  const pride_month_vegas = document.getElementById("pride-month-vegas");
-  const jaden_day = document.getElementById("jaden-day");
-  const black_history_month = document.getElementById("black-history-month");
+  const pride_month          = document.getElementById("pride-month");
+  const pride_month_vegas    = document.getElementById("pride-month-vegas");
+  const jaden_day            = document.getElementById("jaden-day");
+  const black_history_month  = document.getElementById("black-history-month");
+  const christmas            = document.getElementById("christmas");
 
   const cur_date = new Date();
 
@@ -120,6 +136,11 @@
     document.body.style.backgroundSize = "100vw 100vw";
     document.body.style.backgroundAttachment = "fixed";
   }
+
+  if (`${month}-${day}` == "12-25") {
+    christmas.style.display = "block";
+  }
+
 
   if (`${month}` == "2") {
     black_history_month.style.display = "block";
