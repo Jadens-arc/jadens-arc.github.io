@@ -14,23 +14,23 @@
 	{{- if isset .Site.Params "favicon" -}}
 		<link rel="icon" type="image/png" href={{ .Site.Params.favicon }} />
 	{{- end -}}
-  <link rel="manifest" href="/manifest.json">
+	<link rel="manifest" href="/manifest.json">
 	<meta name="viewport" content="width=device-width, initial-scale=1" maximum-scale=1>
 	<meta name="theme-color" content="white"> 
 	<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}" />
 	<meta property="og:image" content="{{ .Site.Params.og_image }}"/>
 	<meta property="twitter:image" content="{{ .Site.Params.og_image | absURL }}"/>
-  <link rel="apple-touch-icon" href="{{ .Site.Params.og_image }}" />
+	<link rel="apple-touch-icon" href="{{ .Site.Params.og_image }}" />
 	{{ with .OutputFormats.Get "rss" -}}
 	{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
 	{{ end -}}
-    <!-- Google Tag Manager -->
-  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','GTM-N7N2SWZD');</script>
-  <!-- End Google Tag Manager -->
+    <!-- Cloudflare Web Analytics -->
+    <script
+      defer
+      src='https://static.cloudflareinsights.com/beacon.min.js'
+      data-cf-beacon='{"token": "d7ae34ce785d42da8f440de1ae74c284"}'>
+    </script>
+    <!-- End Cloudflare Web Analytics -->
 
 	{{- template "_internal/opengraph.html" . -}}
 	{{- template "_internal/twitter_cards.html" . -}}
