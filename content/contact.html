@@ -1,4 +1,4 @@
-<script src="https://www.google.com/recaptcha/api.js"></script>
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" defer></script>
 <title>Contact Me - Jaden Arceneaux</title>
 <h1>Contact Me</h1>
 
@@ -11,17 +11,12 @@
   <input type="email" id="email" name="email" />
   <label for="message">Your Message:</label>
   <textarea id="message" name="message" rows="5"></textarea>
+
+  <div class="checkbox mb-3">
+    <div class="cf-turnstile" data-sitekey="0x4AAAAAAA-hm1eynmtX3FrV" data-theme="light"></div>
+  </div>
   <div>
-    <button class="g-recaptcha" 
-        data-sitekey="6Lci5d0qAAAAAIjP5FRzC7f3uJvz-hmgaJsYYsuG" 
-        data-callback='onSubmit' 
-        data-action='submit'>Submit</button>
+    <button>Submit</button>
   </div>
   <small id="javascript-notice">Javascript is required to submit form</small>
 </form>
- <script>
-  document.getElementById("javascript-notice").style.display = "none";
-  function onSubmit(token) {
-    document.getElementById("contact-form").submit();
-  }
- </script>
