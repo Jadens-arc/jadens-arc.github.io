@@ -23,11 +23,15 @@ html {
   font-family: 'Roboto Mono', monospace;
   font-size: 15px;
   line-height: 1.6em;
+  overflow-y: scroll;
+  scrollbar-color: var(--maincolor)white;
 }
+
 body{
   display: block;
   margin: 8px;
 }
+
 * {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }

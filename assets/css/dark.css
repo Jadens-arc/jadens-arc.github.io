@@ -2,6 +2,10 @@
   background-color: var(--darkMaincolor);
 }
 
+html {
+  scrollbar-color: var(--darkMaincolor) white;
+}
+
 body {
   color: white;
   background-color: #202124;
