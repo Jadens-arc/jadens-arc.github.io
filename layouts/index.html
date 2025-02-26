@@ -2,6 +2,9 @@
 <html lang="{{ .Site.Language.Lang }}">
   {{ partial "head.html" . }}
   <body>
+    <div class="alert" style="display: none;">
+      <p>Message Sent!</p>
+    </div>
     <div class="content">
       {{ partial "header.html" . }}
 
@@ -15,5 +18,10 @@
       </main>
       {{ partial "footer.html" . }}
     </div>
+    <script>
+      if (window.location.search.includes("message-sent=true")) {
+        document.querySelector(".alert").style.display = "block";
+      }
+    </script>
   </body>
 </html>

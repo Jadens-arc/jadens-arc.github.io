@@ -399,3 +399,9 @@ button:hover {
   background-color: navy;
   color: white;
 }
+
+.alert {
+  background-color: red;
+  color: white;
+  padding: 0px 10px
+}
