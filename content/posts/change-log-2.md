@@ -32,4 +32,11 @@ I finally feel like my website is in the exact place I want it to be. Everything
 
 Both the [website](https://github.com/Jadens-arc/jadens-arc.github.io) and the [API](https://github.com/Jadens-arc/api.jadenarceneaux.com) are open-sourced and can be found on [my GitHub](https://github.com/Jadens-arc). Feel free to check the code out or even use it in your own projects. Thanks for reading. I love you <3
 
+
+**Tiny Changes**
+- Color matched scrollbar on FireFox
+- Fixed links to public key
+- Refactored codebase for newest Hugo version
+
+
 > All this work just for it to look the exact same to the end user
