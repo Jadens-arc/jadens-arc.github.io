@@ -1,5 +1,5 @@
 +++
-title = 'Reverse Proxy Explained: The Underrated Third Wheel of Web Development'
+title = 'Reverse Proxies Explained: The Underrated Third Wheel of Web Development'
 date = 2025-02-27T18:20:36-08:00
 draft = false
 isFavorite = false
