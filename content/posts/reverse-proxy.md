@@ -45,7 +45,7 @@ If you're anything like me, you're probably asking yourself at this point, "Why 
 
 ## PHP-FPM
 
-Expanding on that last statement. Express is cool because its server typically responds in a plain text over an HTTP connection. The PHP-FPM is a little different. It's still a runtime for PHP that has an internal server. However, unlike Express, which uses HTTP, it uses a protocol called FastCGI, a high-speed protocol to allow web servers to communicate with applications. In addition to providing a bridge between the external port 443(HTTPS) and the internal port 9000(FastCGI), Apache also plays a role in converting a FastCGI response to a regular HTTP response. Here's an example of an Apache config that can do so. 
+Expanding on that last statement. Express is cool because its server typically responds in plain text over an HTTP connection. The PHP-FPM is a little different. It's still a runtime for PHP that has an internal server. However, unlike Express, which uses HTTP, it uses a protocol called FastCGI, a high-speed protocol to allow web servers to communicate with applications. In addition to providing a bridge between the external port 443(HTTPS) and the internal port 9000(FastCGI), Apache also plays a role in converting a FastCGI response to a regular HTTP response. Here's an example of an Apache config that can do so. 
 
 > Node: In this example, there's an `index.php` file in the document root. 
 
