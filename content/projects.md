@@ -3,7 +3,7 @@ title = 'Projects'
 draft = false
 +++
 
-My focus throughout my professional life has been enterprise software. It has a certain charm to it. Some of the projects are proprietary and confidential and others are open-sourced. These are just the highlights of everything I've worked on. To get a more comprehensive look at my code feel free to check out my [GitHub](https://github.com/jadens-arc).
+My focus throughout my professional life has been enterprise resource planning (ERP) software. It has a certain charm to it. Some of the projects are proprietary and confidential and others are open-sourced. These are just the highlights of everything I've worked on. To get a more comprehensive look at my code feel free to check out my [GitHub](https://github.com/jadens-arc).
 
 - **[ISP.Net](https://isp.net)** - Primarily used PHP with the Symfony framework
   - Lead Management System
