@@ -18,7 +18,7 @@ First of all, I've made a massive change in hosting providers for this website. 
 
 I finally moved to manually hosting everything. I got a cheap VPS from Knownhost and set up NGINX to serve my static files. Then, I reconfigured my domain's DNS setting to point to my new server. Then it was just using Certbot to generate some SSL certificates to enable HTTPS. Migrating the front end of my website was honestly a piece of cake. 
 
-What was really powerful was everything I was able to do on top of that. Or more accurately, what I was able to do under the hood with the backend. The first order of business was handling my own form submission. For that, I created [https://api.jadenarceneaux.com](api.jadenarceneaux.com). A simple Express.js server running through NGINX. Currently, it only has one route `/forms/contact` to handle submissions on my contact form.
+What was really powerful was everything I was able to do on top of that. Or more accurately, what I was able to do under the hood with the backend. The first order of business was handling my own form submission. For that, I created [api.jadenarceneaux.com](https://api.jadenarceneaux.com). A simple Express.js server running through NGINX. Currently, it only has one route `/forms/contact` to handle submissions on my contact form.
 
 Initially, it just validated the data on the form and then connected to the Gmail SMTP server with my Gmail login to email the form contents to me. This was bad for a few reasons. 
 
