@@ -2,6 +2,7 @@
 title = "Jaden Arceneaux"
 date = 2023-01-01
 aliases = ["/about", "/link-in-bio"]
+description = "Software developer, occasional writer, and dedicated Neovim user based in beautiful Las Vegas, Nevada🌵"
 +++
 Software developer, occasional writer, and dedicated Neovim user based
 in beautiful Las Vegas, Nevada🌵
