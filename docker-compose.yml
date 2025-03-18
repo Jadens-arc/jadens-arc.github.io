@@ -1,0 +1,22 @@
+services:
+  web:
+    build: .
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./certbot/www:/var/www/certbot:ro
+      - ./cert bot/conf:/etc/letsencrypt:ro
+    restart: always
+    depends_on:
+      - certbot
+  certbot:
+    image: certbot/certbot
+    volumes:
+      - ./certbot/conf:/etc/letsencrypt
+      - ./certbot/www:/var/www/certbot
+    entrypoint: >
+      sh -c "certbot certonly --webroot -w /var/www/certbot
+      --email contact@jadenarceneaux.com
+      -d jadenarceneaux.com -d www.jadenarceneaux.com
+      --agree-tos --no-eff-email --force-renewal"
