@@ -1,20 +1,45 @@
 <footer>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <div style="display:flex; flex-wrap: wrap; width: fit-content; justify-content: center;">
-      {{- range $index, $key := .Site.Params.Social -}}
-      <a class="soc" href="{{ $key.url }}" rel="me" title="{{ $key.name }}"><i data-feather="{{ $key.icon }}"></i></a>
-      <span class="border"></span>
-      {{- end -}}
+    <div style="display: flex; flex-wrap: wrap; justify-content: center">
+        <div
+            style="
+                display: flex;
+                flex-wrap: wrap;
+                width: fit-content;
+                justify-content: center;
+                margin-bottom: 1rem;
+            "
+        >
+            {{- range $index, $key := .Site.Params.Social -}}
+            <a
+                class="soc"
+                href="{{ $key.url }}"
+                rel="me"
+                title="{{ $key.name }}"
+                ><i data-feather="{{ $key.icon }}"></i
+            ></a>
+            <span class="border"></span>
+            {{- end -}}
+        </div>
+        <wbr />
+        <div
+            class="footer-info"
+            style="
+                word-wrap: nowrap;
+                display: flex;
+                flex-wrap: wrap;
+                width: fit-content;
+                text-align: center;
+                margin-bottom: 1rem;
+            "
+        >
+            {{ dateFormat "2006" now }} {{ with .Site.Copyright }} {{ . }} {{
+            end }}
+        </div>
     </div>
-    <wbr>
-    <div class="footer-info" style="word-wrap: nowrap; display: flex; flex-wrap: wrap; width: fit-content; text-align: center;">
-        {{ dateFormat "2006" now }} {{ with .Site.Copyright }} {{ . }} {{ end }}
-    </div>
-  </div>
 </footer>
 
 {{- if (isset .Site.Params "social") -}}
 <script>
-  feather.replace()
+    feather.replace();
 </script>
 {{- end -}}
