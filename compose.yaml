@@ -1,0 +1,39 @@
+services:
+  nginx:
+    image: nginx:latest
+    container_name: nginx
+    restart: always
+    tty: true
+    stdin_open: true
+    ports:
+      - "8080:80"
+      - "8081:443"
+    volumes:
+      - ./nginx/conf:/etc/nginx/conf.d
+      - ./nginx/letsencrypt:/etc/letsencrypt
+      - ./public:/usr/share/nginx/html
+    networks:
+      - nginx_network
+    depends_on:
+      - certbot
+  certbot:
+    image: certbot/certbot
+    container_name: certbot
+    volumes:
+      - ./nginx/letsencrypt:/etc/letsencrypt
+      - ./nginx/html:/usr/share/nginx/html
+    networks:
+      - nginx_network
+    entrypoint: ["/bin/sh", "-c"]
+    command: >
+      "certbot certonly --webroot
+      -w /usr/share/nginx/html
+      -d localhost
+      --email your-email@example.com
+      --agree-tos
+      --non-interactive
+      --keep-until-expiring"
+
+networks:
+  nginx_network:
+    driver: bridge
