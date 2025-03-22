@@ -3,6 +3,8 @@ services:
     image: hugomods/hugo
     volumes:
       - ./public:/src/public
+      - .:/src
+    command: hugo
   caddy:
     image: caddy:latest
     restart: unless-stopped
