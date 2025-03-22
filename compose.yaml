@@ -1,4 +1,8 @@
 services:
+  hugo:
+    image: hugomods/hugo
+    volumes:
+      - ./public:/src/public
   caddy:
     image: caddy:latest
     restart: unless-stopped
